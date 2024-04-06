@@ -1,0 +1,1233 @@
+﻿Log file open, 04/06/24 23:39:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4864)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: The_Ghost
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.2538] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="53ff4266420aa08b5833af8f4254facb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.415410
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-2DDB602544FDABCCC7C22C8D54DB1A1F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.2538] (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.04.06-21.39.46:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.04.06-21.39.46:980][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.04.06-21.39.46:981][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.04.06-21.39.46:981][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.04.06-21.39.46:981][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.04.06-21.39.46:982][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.04.06-21.39.46:987][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.04.06-21.39.47:020][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI: D3D11 adapters:
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     VendorId    : 8086
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     DeviceId    : 5917
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     SubSysId    : 225817aa
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     Revision    : 0007
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.06-21.39.47:025][  0]LogD3D11RHI:     AdapterLuid : 0 69762
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_1)
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:       128/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     VendorId    : 1414
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     DeviceId    : 008c
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     SubSysId    : 0000
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     Revision    : 0000
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.06-21.39.47:184][  0]LogD3D11RHI:     AdapterLuid : 0 70812
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:       0/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     VendorId    : 8086
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     DeviceId    : 5917
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     SubSysId    : 225817aa
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     Revision    : 0007
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.06-21.39.47:189][  0]LogD3D11RHI:     AdapterLuid : 0 69762
+[2024.04.06-21.39.47:189][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.06-21.39.47:189][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.04.06-21.39.47:189][  0]LogHAL: Display: Platform has ~ 8 GB [8436899840 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.04.06-21.39.47:189][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.04.06-21.39.47:189][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.06-21.39.47:189][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.04.06-21.39.47:189][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.04.06-21.39.47:189][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2024.04.06-21.39.47:189][  0]LogInit: Computer: DESKTOP-6RA9TLN
+[2024.04.06-21.39.47:189][  0]LogInit: User: User
+[2024.04.06-21.39.47:189][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.04.06-21.39.47:189][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.04.06-21.39.47:189][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2024.04.06-21.39.47:189][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.04.06-21.39.47:189][  0]LogMemory: Process Physical Memory: 250.59 MB used, 268.33 MB peak
+[2024.04.06-21.39.47:189][  0]LogMemory: Process Virtual Memory: 194.62 MB used, 194.62 MB peak
+[2024.04.06-21.39.47:189][  0]LogMemory: Physical Memory: 5605.57 MB used,  2440.48 MB free, 8046.05 MB total
+[2024.04.06-21.39.47:189][  0]LogMemory: Virtual Memory: 8001.49 MB used,  8090.33 MB free, 16091.82 MB total
+[2024.04.06-21.39.47:189][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.04.06-21.39.47:196][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.04.06-21.39.47:219][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.04.06-21.39.47:220][  0]LogInit: Using OS detected language (en-US).
+[2024.04.06-21.39.47:220][  0]LogInit: Using OS detected locale (en-US).
+[2024.04.06-21.39.47:227][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2024.04.06-21.39.47:462][  0]LogInit: Setting process to per monitor DPI aware
+[2024.04.06-21.39.47:474][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.04.06-21.39.47:474][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2024.04.06-21.39.47:474][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.06-21.39.47:494][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.04.06-21.39.47:494][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.04.06-21.39.47:653][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.04.06-21.39.47:653][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2024.04.06-21.39.47:653][  0]LogWindows: Attached monitors:
+[2024.04.06-21.39.47:653][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1008), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.04.06-21.39.47:653][  0]LogWindows: Found 1 attached monitors.
+[2024.04.06-21.39.47:653][  0]LogWindows: EnumDisplayDevices:
+[2024.04.06-21.39.47:653][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.04.06-21.39.47:654][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.04.06-21.39.47:654][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.04.06-21.39.47:655][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2024.04.06-21.39.47:655][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2024.04.06-21.39.47:655][  0]LogD3D11RHI:   Driver Version: 30.0.101.1122 (internal:30.0.101.1122, unified:101.1122)
+[2024.04.06-21.39.47:655][  0]LogD3D11RHI:      Driver Date: 11-15-2021
+[2024.04.06-21.39.47:655][  0]LogRHI: Texture pool is 1497 MB (70% of 2139 MB)
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     VendorId    : 8086
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     DeviceId    : 5917
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     SubSysId    : 225817aa
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     Revision    : 0007
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.06-21.39.47:672][  0]LogD3D11RHI:     AdapterLuid : 0 69762
+[2024.04.06-21.39.47:878][  0]LogD3D11RHI: Intel Extensions loaded requested version for UAVOverlap: 1.1.0
+[2024.04.06-21.39.47:879][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2024.04.06-21.39.47:879][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2024.04.06-21.39.47:880][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2024.04.06-21.39.47:880][  0]LogD3D11RHI: Async texture creation enabled
+[2024.04.06-21.39.47:880][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2024.04.06-21.39.47:880][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.04.06-21.39.47:894][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2024.04.06-21.39.50:009][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the Intel graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://downloadcenter.intel.com/product/80939/Graphics
+
+Intel(R) UHD Graphics 620
+Installed: 30.0.101.1122
+Recommended: 30.0.101.1340
+[2024.04.06-21.39.50:021][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyReport_0.log" -log="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyLog_0.log" -project="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject"  -platform=all'
+[2024.04.06-21.39.50:021][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyReport_0.log" -log="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyLog_0.log" -project="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject"  -platform=all" ]
+[2024.04.06-21.39.50:072][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.04.06-21.39.50:086][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.04.06-21.39.50:086][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.04.06-21.39.50:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.04.06-21.39.50:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.04.06-21.39.50:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.04.06-21.39.50:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.04.06-21.39.50:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.04.06-21.39.50:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.04.06-21.39.50:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.04.06-21.39.50:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.04.06-21.39.50:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.04.06-21.39.50:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.04.06-21.39.50:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.04.06-21.39.50:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.04.06-21.39.50:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.04.06-21.39.50:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.04.06-21.39.50:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.04.06-21.39.50:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.04.06-21.39.50:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.04.06-21.39.50:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.04.06-21.39.50:175][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.04.06-21.39.50:190][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.04.06-21.39.50:194][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.04.06-21.39.50:194][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.04.06-21.39.50:194][  0]LogTargetPlatformManager:   ADPCM
+[2024.04.06-21.39.50:194][  0]LogTargetPlatformManager:   PCM
+[2024.04.06-21.39.50:197][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.04.06-21.39.50:197][  0]LogTargetPlatformManager:   BINKA
+[2024.04.06-21.39.50:197][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.04.06-21.39.50:197][  0]LogTargetPlatformManager:   OGG
+[2024.04.06-21.39.50:197][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.04.06-21.39.50:197][  0]LogTargetPlatformManager:   OPUS
+[2024.04.06-21.39.50:285][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.04.06-21.39.50:285][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   SF_METAL
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.04.06-21.39.50:296][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.04.06-21.39.50:297][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.04.06-21.39.50:297][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.04.06-21.39.50:297][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.04.06-21.39.50:301][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.04.06-21.39.50:301][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.04.06-21.39.50:301][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.04.06-21.39.50:301][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.04.06-21.39.50:301][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.04.06-21.39.50:301][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.04.06-21.39.50:301][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.04.06-21.39.50:301][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.04.06-21.39.50:302][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.04.06-21.39.50:302][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.06-21.39.50:302][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.04.06-21.39.50:303][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.06-21.39.50:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.04.06-21.39.50:309][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.04.06-21.39.50:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.06-21.39.50:309][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.04.06-21.39.50:343][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.04.06-21.39.50:344][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.06-21.39.50:344][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.04.06-21.39.50:354][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.04.06-21.39.50:355][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1078.27MBs, RandomWriteSpeed=100.52MBs. Assigned SpeedClass 'Local'
+[2024.04.06-21.39.50:357][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.04.06-21.39.50:358][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.04.06-21.39.50:359][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.04.06-21.39.50:372][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.04.06-21.39.50:373][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.04.06-21.39.50:375][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/Shaders/WorkingDirectory/40024/).
+[2024.04.06-21.39.50:376][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/09EF272544B5C55D7C3D7F983CF7F9E6/'.
+[2024.04.06-21.39.50:377][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.04.06-21.39.50:377][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2024.04.06-21.39.52:393][  0]LogSlate: Using FreeType 2.10.0
+[2024.04.06-21.39.52:394][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.04.06-21.39.52:445][  0]LogAssetRegistry: FAssetRegistry took 0.0183 seconds to start up
+[2024.04.06-21.39.52:453][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.04.06-21.39.52:767][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.04.06-21.39.52:768][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.04.06-21.39.53:121][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.06-21.39.53:121][  0]LogDeviceProfileManager: Active device profile: [00000876F0816740][00000876D1A7C800 50] WindowsEditor
+[2024.04.06-21.39.53:121][  0]LogDeviceProfileManager: Profiles: [00000876F0816200][00000876E3C22800 50] Windows, [00000876F0816740][00000876D1A7C800 50] WindowsEditor, [00000876F0814600][00000876E46AA000 50] WindowsServer, [00000876F0814440][00000876E46F2800 50] WindowsClient, [00000876F0812F40][00000876F0AA0000 50] IOS, [00000876F0815780][00000876F0AA5000 50] iPadAir2, [00000876F08155C0][00000876F0AAA000 50] IPadPro, [00000876F08139C0][00000876F0AA7800 50] iPadAir3, [00000876F0815400][00000876F0AAC800 50] iPadAir4, [00000876F0812BC0][00000876E0EDA000 50] iPadMini4, [00000876F0812680][00000876F0A70000 50] iPadMini5, [00000876F08140C0][00000876F0A75000 50] iPadMini6, [00000876F0819840][00000876F0A7C800 50] iPhone6S, [00000876F0819BC0][00000876F0A7A000 50] iPhone7, [00000876F08194C0][00000876F0A77800 50] iPodTouch7, [00000876F0819140][00000876F0AA2800 50] iPhone6SPlus, [00000876F0812840][00000876F0AB0000 50] iPhone7Plus, [00000876F08132C0][00000876F0AB5000 50] iPhoneSE, [00000876F0812140][00000876F0AB7800 50] iPhone8, [00000876F0819300][00000876F0ABA000 50] iPhone8Plus, [00000876F0818DC0][00000876F0ABC800 50] iPhoneX, [00000876F0818F80][00000876F0A72800 50] iPhoneXS, [00000876F0818C00][00000876F0AC0000 50] iPhoneXSMax, [00000876F0816900][00000876F0AC5000 50] iPhoneXR, [00000876F0818A40][00000876F0AC7800 50] iPhone11, [00000876F0815CC0][00000876F0ACA000 50] iPhone11Pro, [00000876F0811F80][00000876F0ACC800 50] iPhone11ProMax, [00000876F0816AC0][00000876F0AB2800 50] iPhoneSE2, [00000876F0813480][00000876F0AE0000 50] iPhone12Mini, [00000876F0816580][00000876F0AE5000 50] iPhone12, [00000876F0818500][00000876F0AE7800 50] iPhone12Pro, [00000876F0812D80][00000876F0AEA000 50] iPhone12ProMax, [00000876F08116C0][00000876F0AEC800 50] iPhone13Mini, [00000876F0810FC0][00000876F0AC2800 50] iPhone13, [00000876F0818880][00000876F0AF0000 50] iPhone13Pro, [00000876F0815080][00000876F0AF5000 50] iPhone13ProMax, [00000876F0816C80][00000876F0AF7800 50] iPadPro105, [00000876F08186C0][00000876F0AFA000 50] iPadPro129, [00000876F0811500][00000876F0AFC800 50] iPadPro97, [00000876F0817FC0][00000876F0AE2800 50] iPadPro2_129, [00000876F0815E80][00000876F0B00000 50] iPad5, [00000876F0817700][00000876F0B05000 50] iPad6, [00000876F0813800][00000876F0B07800 50] iPad7, [00000876F08124C0][00000876F0B0A000 50] iPad8, [00000876F0817C40][00000876F0B0C800 50] iPad9, [00000876F08178C0][00000876F0AF2800 50] iPadPro11, [00000876F0818340][00000876F0B10000 50] iPadPro2_11, [00000876F0819680][00000876F0B15000 50] iPadPro3_11, [00000876F08147C0][00000876F0B17800 50] iPadPro3_129, [00000876F08171C0][00000876F0B1A000 50] iPadPro4_129, [00000876F0813D40][00000876F0B1C800 50] iPadPro5_129, [00000876F0812300][00000876F0B02800 50] AppleTV, [00000876F0814280][00000876F0B30000 50] AppleTV4K, [00000876F0817380][00000876F0B35000 50] TVOS, [00000876F081C080][00000876F0B3A000 50] Mac, [00000876F081C400][00000876F0B37800 50] MacEditor, [00000876F081A640][00000876F0B3C800 50] MacClient, [00000876F081BEC0][00000876F0B12800 50] MacServer, [00000876F081BB40][00000876F0B42800 50] Linux, [00000876F0817000][00000876F0B40000 50] LinuxEditor, [00000876F081AD40][00000876F0B47800 50] LinuxArm64Editor, [00000876F0813100][00000876F0B4A000 50] LinuxArm64, [00000876F081B7C0][00000876F0B4C800 50] LinuxClient, [00000876F081B600][00000876F0B32800 50] LinuxArm64Client, [00000876F0815240][00000876F0B50000 50] LinuxServer, [00000876F0814D00][00000876F0B55000 50] LinuxArm64Server, [00000876F0813640][00000876F0B57800 50] Android, [00000876F0812A00][00000876F0B5A000 50] Android_Preview_OpenGL, [00000876F081B0C0][00000876F0B5C800 50] Android_Preview_Vulkan, [00000876F0811880][00000876F0B45000 50] Android_Low, [00000876F0813B80][00000876F0B60000 50] Android_Mid, [00000876F0815940][00000876F0B65000 50] Android_High, [00000876F081A2C0][00000876F0B67800 50] Android_Default, [00000876F0816040][00000876F0B6A000 50] Android_Adreno4xx, [00000876F0815B00][00000876F0B6C800 50] Android_Adreno5xx_Low, [00000876F081B440][00000876F0B52800 50] Android_Adreno5xx, [00000876F0816E40][00000876F0B70000 50] Android_Adreno6xx, [00000876F0814EC0][00000876F0B75000 50] Android_Adreno6xx_Vulkan, [00000876F081C780][00000876F0B77800 50] Android_Adreno7xx, [00000876F0819F40][00000876F0B7A000 50] Android_Adreno7xx_Vulkan, [00000876F081A100][00000876F0B7C800 50] Android_Mali_T6xx, [00000876F0814B40][00000876F0B62800 50] Android_Mali_T7xx, [00000876F081A480][00000876F0B80000 50] Android_Mali_T8xx, [00000876F0813F00][00000876F0B85000 50] Android_Mali_G71, [00000876F081AF00][00000876F0B87800 50] Android_Mali_G72, [00000876F081CCC0][00000876F0B8A000 50] Android_Mali_G72_Vulkan, [00000876F0819D80][00000876F0B8C800 50] Android_Mali_G76, [00000876F081CE80][00000876F0B72800 50] Android_Mali_G76_Vulkan, [00000876F081BD00][00000876F0B90000 50] Android_Mali_G77, [00000876F081D040][00000876F0B95000 50] Android_Mali_G77_Vulkan, [00000876F081C940][00000876F0B97800 50] Android_Mali_G78, [00000876F081C5C0][00000876F0B9A000 50] Android_Mali_G78_Vulkan, [00000876F081A800][00000876F0B9C800 50] Android_Mali_G710, [00000876F0814980][00000876F0B82800 50] Android_Mali_G710_Vulkan, [00000876F081DC80][00000876F0BA0000 50] Android_Xclipse_920, [00000876F0819A00][00000876F0BA5000 50] Android_Xclipse_920_Vulkan, [00000876F081DE40][00000876F0BA7800 50] Android_Vulkan_SM5, [00000876F081D200][00000876F0BAA000 50] Android_PowerVR_G6xxx, [00000876F081E000][00000876F0BAC800 50] Android_PowerVR_GT7xxx, [00000876F081D900][00000876F0B92800 50] Android_PowerVR_GE8xxx, [00000876F081A9C0][00000876F0BB0000 50] Android_PowerVR_GM9xxx, [00000876F081B980][00000876F0BB5000 50] Android_PowerVR_GM9xxx_Vulkan, [00000876F081EC40][00000876F0BB7800 50] Android_TegraK1, [00000876F081AB80][00000876F0BBA000 50] Android_Unknown_Vulkan, [00000876F081EE00][00000876F0BBC800 50] Oculus_Quest, [00000876F0817E00][00000876F0BA2800 50] Oculus_Quest2, [00000876F081EFC0][00000876F0BC0000 50] HoloLens, 
+[2024.04.06-21.39.53:121][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.04.06-21.39.53:208][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.04.06-21.39.53:493][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.04.06-21.39.53:493][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.04.06-21.39.53:493][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.04.06-21.39.53:493][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.04.06-21.39.53:493][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.04.06-21.39.53:520][  0]LogNetVersion: The_Ghost 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1906069882)
+[2024.04.06-21.39.53:712][  0]LogSlate: Border
+[2024.04.06-21.39.53:712][  0]LogSlate: BreadcrumbButton
+[2024.04.06-21.39.53:712][  0]LogSlate: Default
+[2024.04.06-21.39.53:712][  0]LogSlate: Icons.Save
+[2024.04.06-21.39.53:712][  0]LogSlate: Icons.Toolbar.Settings
+[2024.04.06-21.39.53:712][  0]LogSlate: ListView
+[2024.04.06-21.39.53:712][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.04.06-21.39.53:712][  0]LogSlate: SoftwareCursor_Grab
+[2024.04.06-21.39.53:712][  0]LogSlate: TableView.DarkRow
+[2024.04.06-21.39.53:712][  0]LogSlate: TableView.Row
+[2024.04.06-21.39.53:712][  0]LogSlate: TreeView
+[2024.04.06-21.39.53:980][  0]SourceControl: Source control is disabled
+[2024.04.06-21.39.54:030][  0]SourceControl: Source control is disabled
+[2024.04.06-21.39.54:030][  0]SourceControl: Source control is disabled
+[2024.04.06-21.39.54:211][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.04.06-21.39.54:211][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2024.04.06-21.39.54:211][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.04.06-21.39.54:520][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 89590B8B47E9094254F566849EF9351E | Instance: 67DB8FF5401035132A8C379E51822473 (DESKTOP-6RA9TLN-40024).
+[2024.04.06-21.39.54:855][  0]LogPython: Using Python 3.9.7
+[2024.04.06-21.39.56:912][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.04.06-21.39.56:924][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.04.06-21.40.00:427][  0]LogSourceControl: Warning: '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/' is not part of a Git repository
+[2024.04.06-21.40.00:633][  0]LogUProjectInfo: Found projects:
+[2024.04.06-21.40.00:652][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.06-21.40.00:654][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.06-21.40.00:656][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.06-21.40.00:998][  0]LogOpenImageDenoise: OIDN starting up
+[2024.04.06-21.40.01:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.04.06-21.40.01:170][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.06-21.40.01:170][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.06-21.40.01:420][  0]LogCollectionManager: Loaded 0 collections in 0.003066 seconds
+[2024.04.06-21.40.01:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Collections/' took 0.00s
+[2024.04.06-21.40.01:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Developers/User/Collections/' took 0.00s
+[2024.04.06-21.40.01:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Collections/' took 0.00s
+[2024.04.06-21.40.02:441][  0]LogEngine: Initializing Engine...
+[2024.04.06-21.40.02:482][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.04.06-21.40.03:264][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.04.06-21.40.03:266][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.06-21.40.03:299][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.06-21.40.03:386][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.04.06-21.40.03:389][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.04.06-21.40.03:458][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.04.06-21.40.03:459][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.04.06-21.40.03:459][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.04.06-21.40.03:460][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.04.06-21.40.03:460][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.04.06-21.40.03:460][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.06-21.40.03:460][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.06-21.40.03:460][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.06-21.40.03:460][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.06-21.40.03:460][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.06-21.40.03:460][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.06-21.40.03:460][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.06-21.40.03:460][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.06-21.40.03:461][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.06-21.40.03:461][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.06-21.40.03:461][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.06-21.40.03:478][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.06-21.40.04:394][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.06-21.40.04:396][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.06-21.40.04:400][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.06-21.40.04:400][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.06-21.40.04:401][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.04.06-21.40.04:401][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.06-21.40.04:403][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.06-21.40.04:403][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.04.06-21.40.04:403][  0]LogInit: FAudioDevice initialized.
+[2024.04.06-21.40.04:404][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.06-21.40.04:404][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.04.06-21.40.04:404][  0]LogInit: Texture streaming: Enabled
+[2024.04.06-21.40.04:468][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.04.06-21.40.04:485][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.04.06-21.40.04:596][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.04.06-21.40.04:609][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.04.06-21.40.04:609][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.04.06-21.40.07:409][  0]LogLiveCoding: Display: First instance in process group "UE_The_Ghost_0x53b4fe30", spawning console
+[2024.04.06-21.40.07:409][  0]LogLiveCoding: Display: Waiting for server
+[2024.04.06-21.40.07:409][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.04.06-21.40.07:514][  0]LogInit: Transaction tracking system initialized
+[2024.04.06-21.40.07:651][  0]BlueprintLog: New page: Editor Load
+[2024.04.06-21.40.08:020][  0]LocalizationService: Localization service is disabled
+[2024.04.06-21.40.08:120][  0]TimingProfiler: Initialize
+[2024.04.06-21.40.08:121][  0]TimingProfiler: OnSessionChanged
+[2024.04.06-21.40.08:121][  0]LoadingProfiler: Initialize
+[2024.04.06-21.40.08:121][  0]LoadingProfiler: OnSessionChanged
+[2024.04.06-21.40.08:121][  0]NetworkingProfiler: Initialize
+[2024.04.06-21.40.08:121][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.06-21.40.08:121][  0]MemoryProfiler: Initialize
+[2024.04.06-21.40.08:121][  0]MemoryProfiler: OnSessionChanged
+[2024.04.06-21.40.08:226][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_10'
+[2024.04.06-21.40.08:226][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_10
+[2024.04.06-21.40.08:499][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.06-21.40.08:500][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.06-21.40.08:502][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.06-21.40.09:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/' took 0.03s
+[2024.04.06-21.40.09:371][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.04.06-21.40.09:509][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.06-21.40.09:512][  0]LogUnrealEdMisc: Loading editor; pre map load, took 24.356
+[2024.04.06-21.40.09:513][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.06-21.40.09:562][  0]LightingResults: New page: Lighting Build
+[2024.04.06-21.40.09:585][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.06-21.40.09:586][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.06-21.40.09:586][  0]MapCheck: New page: Map Check
+[2024.04.06-21.40.09:586][  0]LightingResults: New page: Lighting Build
+[2024.04.06-21.40.09:601][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.06-21.40.09:606][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.06-21.40.10:542][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:542][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:542][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_198' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:542][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_199' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:542][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_200' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:542][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_201' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_202' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_203' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_204' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_237' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_238' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_239' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_240' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_241' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_242' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_243' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:543][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_Root_44' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.06-21.40.10:670][  0]LogStaticMesh: StaticMesh /Game/Geometry/Meshes/1M_Cube.1M_Cube should be resaved to improve async compilation performance.
+[2024.04.06-21.40.10:670][  0]LogStaticMesh: StaticMesh /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer should be resaved to improve async compilation performance.
+[2024.04.06-21.40.10:680][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.06-21.40.10:681][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.06-21.40.10:681][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.06-21.40.10:681][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.06-21.40.10:682][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.06-21.40.10:691][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2024.04.06-21.40.10:692][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.06-21.40.10:692][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.06-21.40.10:693][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.06-21.40.10:714][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.06-21.40.10:772][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.06-21.40.10:773][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.06-21.40.10:773][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2024.04.06-21.40.10:773][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.260
+[2024.04.06-21.40.10:791][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.635
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: ================================================
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.06-21.40.10:791][  0]LogShaderCompilers: Display: ================================================
+[2024.04.06-21.40.10:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.06-21.40.11:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.06-21.40.11:015][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.06-21.40.11:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.06-21.40.11:091][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:091][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:093][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:093][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:094][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:094][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:096][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:096][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:099][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:099][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:103][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:104][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:108][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:108][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:109][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:109][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:111][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:111][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:112][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.04.06-21.40.11:112][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.06-21.40.11:113][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.04.06-21.40.11:476][  0]LogStall: Startup...
+[2024.04.06-21.40.11:480][  0]LogStall: Startup complete.
+[2024.04.06-21.40.11:516][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Left_Trigger.
+[2024.04.06-21.40.11:516][  0]LogInput: Warning: Action ResetVR uses invalid key MotionController_Left_Grip1.
+[2024.04.06-21.40.11:516][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Right_Trigger.
+[2024.04.06-21.40.11:516][  0]LogInput: Warning: Action Jump uses invalid key OculusTouchpad_Touchpad.
+[2024.04.06-21.40.11:516][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.04.06-21.40.11:516][  0]LogLoad: (Engine Initialization) Total time: 26.36 seconds
+[2024.04.06-21.40.11:516][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.06-21.40.11:583][  0]LogAssetRegistry: Asset discovery search completed in 19.1408 seconds
+[2024.04.06-21.40.11:592][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2024.04.06-21.40.11:659][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.06-21.40.11:711][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.06-21.40.11:765][  0]LogSlate: Took 0.049149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.06-21.40.11:767][  0]LogSlate: Took 0.000769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.06-21.40.11:770][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.06-21.40.11:876][  0]LogViewport: Scene viewport resized to 1513x792, mode Windowed.
+[2024.04.06-21.40.14:186][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.
+[2024.04.06-21.40.17:350][ 92]LogSlate: Took 0.048646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.06-21.40.17:387][ 92]LogSlate: Took 0.001157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.06-21.40.37:396][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.06-21.40.39:697][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_CA.T_Fence_Wire_01_CA (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.39:697][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_N.T_Fence_Wire_01_N (TFO_BC5, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.39:697][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_DetailTexture_01_NA.T_DetailTexture_01_NA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.39:697][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Distant_Ground_02_CA.T_Distant_Ground_02_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.39:697][305]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave RuralAustralia_01...
+[2024.04.06-21.40.39:705][305]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/RuralAustralia/Audio/RuralAustralia_01.RuralAustralia_01 will be modified from 40 to 40.
+[2024.04.06-21.40.40:267][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Distant_Ground_02_NA.T_Distant_Ground_02_NA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.40:267][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Sky/HDRI_01.HDRI_01 (RGBA16F, 8192X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.40:267][305]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5115624 while cooking SoundWave /Game/RuralAustralia/Audio/RuralAustralia_01.RuralAustralia_01.
+[2024.04.06-21.40.40:270][305]LogAudio: Display: Chunk size for SoundWave /Game/RuralAustralia/Audio/RuralAustralia_01.RuralAustralia_01: 262144
+[2024.04.06-21.40.40:386][305]LogMaterial: Display: Missing cached shadermap for M_Sky_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 35335F52B868E278EEF3D715939BF56B24A5C178), compiling. 
+[2024.04.06-21.40.40:515][305]LogMaterial: Display: Missing cached shadermap for M_Fence_Wires_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C945D710389AFDBB47A382CDDE8369F42C15AF4), compiling. 
+[2024.04.06-21.40.40:845][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_RockStains_CA.T_RockStains_CA (TFO_AutoDXT, 4096X1024 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.40:845][305]LogMaterial: Display: Missing cached shadermap for M_Nature_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A19F2687A18912197136C836C1F1E7C381A7205), compiling. 
+[2024.04.06-21.40.41:137][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.41:137][305]LogMaterial: Display: Missing cached shadermap for M_Fence_Wires_01_LOD in PCD3D_SM5, Default, SM5 (DDC key hash: D8100B6F2C6C2AEB735CB6B8B297C9A757FDD65D), compiling. 
+[2024.04.06-21.40.41:434][305]LogStaticMesh: Display: Building static mesh SM_Fence_02...
+[2024.04.06-21.40.41:434][305]LogMaterial: Display: Missing cached shadermap for M_Vegetation_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CC7B8C2FC5D38EE977FE5A655064CF988DC1F265), compiling. 
+[2024.04.06-21.40.42:070][305]LogMaterial: Display: Missing cached shadermap for MI_Scatter_01_B in PCD3D_SM5, Default, SM5 (DDC key hash: 626202605EFCA781C862AB8D1D37722C9688EE5E), compiling. 
+[2024.04.06-21.40.42:715][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_1 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.42:715][305]LogStaticMesh: Display: Building static mesh SM_Fence_Wires_01...
+[2024.04.06-21.40.42:715][305]LogStaticMesh: Built static mesh [0.36s] /Game/RuralAustralia/StaticMeshes/Props/Fence_01/SM_Fence_Wires_01.SM_Fence_Wires_01
+[2024.04.06-21.40.42:715][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_2 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.42:715][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_3 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.42:715][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_B...
+[2024.04.06-21.40.42:715][305]LogMaterial: Display: Missing cached shadermap for MI_Scatter_01 in PCD3D_SM5, Default, SM5 (DDC key hash: B6E0A479930B3417448AD42ED41FB2E9B20D6092), compiling. 
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_B.SM_Scatter_01_B
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_C...
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Built static mesh [0.02s] /Game/RuralAustralia/Scatter/SM_Scatter_01_C.SM_Scatter_01_C
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_J...
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Built static mesh [0.02s] /Game/RuralAustralia/Scatter/SM_Scatter_01_J.SM_Scatter_01_J
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_K...
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Built static mesh [0.02s] /Game/RuralAustralia/Scatter/SM_Scatter_01_K.SM_Scatter_01_K
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_L...
+[2024.04.06-21.40.43:346][305]LogStaticMesh: Built static mesh [0.02s] /Game/RuralAustralia/Scatter/SM_Scatter_01_L.SM_Scatter_01_L
+[2024.04.06-21.40.43:346][305]LogMaterial: Display: Missing cached shadermap for MI_Scatter_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D7227A68FED85E8340FD3D2877479E12690CF67), compiling. 
+[2024.04.06-21.40.43:907][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_Cliff_Tile_CA.T_Cliff_Tile_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.43:907][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_Cliff_Tile_NA.T_Cliff_Tile_NA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.43:907][305]LogMaterial: Display: Missing cached shadermap for M_Scatter_02_LOD0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B782C214B5BFEFC32BB835B882958E06F1E53D7), compiling. 
+[2024.04.06-21.40.44:252][305]LogMaterial: Display: Missing cached shadermap for MI_Scatter_04_B in PCD3D_SM5, Default, SM5 (DDC key hash: 79617ACF5FE11D7EABB35F715CC3D5AD6610D475), compiling. 
+[2024.04.06-21.40.44:592][305]LogStaticMesh: Built static mesh [3.18s] /Game/RuralAustralia/StaticMeshes/Props/Fence_01/SM_Fence_02.SM_Fence_02
+[2024.04.06-21.40.44:592][305]LogMaterial: Display: Missing cached shadermap for MI_Scatter_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 83CF4C9CD34A940685C628986F37D81DE991937E), compiling. 
+[2024.04.06-21.40.45:370][305]LogMaterial: Display: Missing cached shadermap for M_Vegetation_Billboard_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 689F1C0CCCB99B8713FF54B37C46D4793A13B29C), compiling. 
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_N...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_N.SM_Scatter_01_N
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_O...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_O.SM_Scatter_01_O
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_P...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_P.SM_Scatter_01_P
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_A...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.04s] /Game/RuralAustralia/Scatter/SM_Scatter_02_A.SM_Scatter_02_A
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_B...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.06s] /Game/RuralAustralia/Scatter/SM_Scatter_02_B.SM_Scatter_02_B
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_C...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.05s] /Game/RuralAustralia/Scatter/SM_Scatter_02_C.SM_Scatter_02_C
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_D...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_02_D.SM_Scatter_02_D
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_E...
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_02_E.SM_Scatter_02_E
+[2024.04.06-21.40.45:735][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_F...
+[2024.04.06-21.40.45:736][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_02_F.SM_Scatter_02_F
+[2024.04.06-21.40.45:736][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_G...
+[2024.04.06-21.40.45:736][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_02_G.SM_Scatter_02_G
+[2024.04.06-21.40.45:736][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_H...
+[2024.04.06-21.40.45:736][305]LogMaterial: Display: Missing cached shadermap for MI_Scatter_05_Billboard in PCD3D_SM5, Default, SM5 (DDC key hash: 2E4454484D8DBDCB5B6C54EC416AD7011F060D7C), compiling. 
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_02_H.SM_Scatter_02_H
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_I...
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_02_I.SM_Scatter_02_I
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Display: Building static mesh SM_Scatter_02_J...
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_02_J.SM_Scatter_02_J
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Display: Building static mesh SM_Scatter_03_A...
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Built static mesh [0.04s] /Game/RuralAustralia/Scatter/SM_Scatter_03_A.SM_Scatter_03_A
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Display: Building static mesh SM_Scatter_03_B...
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Built static mesh [0.05s] /Game/RuralAustralia/Scatter/SM_Scatter_03_B.SM_Scatter_03_B
+[2024.04.06-21.40.46:125][305]LogStaticMesh: Display: Building static mesh SM_Scatter_04_D...
+[2024.04.06-21.40.46:125][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/T_Rock_S_02_CA.T_Rock_S_02_CA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.46:125][305]LogMaterial: Display: Missing cached shadermap for MI_GrassTree_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 7297DD88B6C966FBC5662FCA867E0CAD19A4DC3A), compiling. 
+[2024.04.06-21.40.46:724][305]LogStaticMesh: Built static mesh [0.37s] /Game/RuralAustralia/Scatter/SM_Scatter_04_D.SM_Scatter_04_D
+[2024.04.06-21.40.46:724][305]LogStaticMesh: Display: Building static mesh SM_Scatter_05...
+[2024.04.06-21.40.46:724][305]LogStaticMesh: Built static mesh [0.03s] /Game/RuralAustralia/Scatter/SM_Scatter_05.SM_Scatter_05
+[2024.04.06-21.40.46:724][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/T_Rock_S_02_NA.T_Rock_S_02_NA (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.46:724][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_01_CA.T_Fence_01_CA (TFO_AutoDXT, 1024X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.46:724][305]LogMaterial: Display: Missing cached shadermap for MI_GrassTree_02_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 2912AAA08C0B77BFE8BEA57EA0DCC2604A44FDCB), compiling. 
+[2024.04.06-21.40.47:062][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_LOD_CA.T_Fence_Wire_01_LOD_CA (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.47:062][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_01_NA.T_Fence_01_NA (TFO_AutoDXT, 1024X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.47:062][305]LogMaterial: Display: Missing cached shadermap for M_Snake_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C9C9429C54C1922CDC1A29CAE5FC6A5F0D3F78B), compiling. 
+[2024.04.06-21.40.47:389][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_LOD_N.T_Fence_Wire_01_LOD_N (TFO_BC5, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.47:389][305]LogStaticMesh: Display: Building static mesh SM_GrassTree_02...
+[2024.04.06-21.40.47:389][305]LogMaterial: Display: Missing cached shadermap for MI_Rock_M_03 in PCD3D_SM5, Default, SM5 (DDC key hash: B48F232048D5B0F184FEDC1C84317C6AADA26AF1), compiling. 
+[2024.04.06-21.40.47:709][305]LogStaticMesh: Built static mesh [0.12s] /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_02.SM_GrassTree_02
+[2024.04.06-21.40.47:709][305]LogStaticMesh: Display: Building static mesh SM_GrassTree_03...
+[2024.04.06-21.40.47:709][305]LogStaticMesh: Display: Building static mesh SM_Snake_01...
+[2024.04.06-21.40.47:709][305]LogMaterial: Display: Missing cached shadermap for M_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: 43B76910A0F1D93338DC2590B234AD10643A1F96), compiling. 
+[2024.04.06-21.40.47:880][305]LogStaticMesh: Built static mesh [0.09s] /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_03.SM_GrassTree_03
+[2024.04.06-21.40.47:880][305]LogStaticMesh: Display: Building static mesh SM_GrassTree_04...
+[2024.04.06-21.40.47:880][305]LogStaticMesh: Built static mesh [0.03s] /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_04.SM_GrassTree_04
+[2024.04.06-21.40.47:880][305]LogStaticMesh: Display: Building static mesh SM_Log_S_01...
+[2024.04.06-21.40.47:880][305]LogMaterial: Display: Missing cached shadermap for MI_Landscape_Content_01 in PCD3D_SM5, Default, SM5 (DDC key hash: C9CE3F5E3F75136B7EDBA0F8CCFE050E97256E88), compiling. 
+[2024.04.06-21.40.48:068][305]LogStaticMesh: Built static mesh [0.23s] /Game/RuralAustralia/StaticMeshes/Props/Snake_01/SM_Snake_01.SM_Snake_01
+[2024.04.06-21.40.48:068][305]LogStaticMesh: Display: Building static mesh SM_Log_S_02...
+[2024.04.06-21.40.48:068][305]LogMaterial: Display: Missing cached shadermap for M_Ground_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 995E8513C8A8B812890FAB89B436B02296B99D0A), compiling. 
+[2024.04.06-21.40.48:423][305]LogMaterial: Display: Missing cached shadermap for MI_Ground_Dirt_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9013AB987ABAB23CF2367D3A68D65FD67F1C5EBB), compiling. 
+[2024.04.06-21.40.48:736][305]LogStaticMesh: Display: Building static mesh SM_Scatter_04_A...
+[2024.04.06-21.40.48:736][305]LogMaterial: Display: Missing cached shadermap for MI_Ground_Dirt_01_NonWorldSpace in PCD3D_SM5, Default, SM5 (DDC key hash: FE193CD6EA61A20D55717906C7F7D7CF282CB72E), compiling. 
+[2024.04.06-21.40.49:325][305]LogStaticMesh: Built static mesh [0.54s] /Game/RuralAustralia/Scatter/SM_Scatter_04_A.SM_Scatter_04_A
+[2024.04.06-21.40.49:325][305]LogStaticMesh: Display: Building static mesh SM_Scatter_04_B...
+[2024.04.06-21.40.49:325][305]LogMaterial: Display: Missing cached shadermap for M_Birds_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 295DCA356FB3277D2426713FB0478D8B427EDDE2), compiling. 
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Built static mesh [0.38s] /Game/RuralAustralia/Scatter/SM_Scatter_04_B.SM_Scatter_04_B
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Display: Building static mesh SM_Rock_M_03...
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Built static mesh [1.37s] /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/SM_Rock_M_03.SM_Rock_M_03
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Display: Building static mesh SM_Rock_S_01...
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Built static mesh [0.32s] /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/SM_Rock_S_01.SM_Rock_S_01
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Display: Building static mesh SM_Rock_S_02...
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Built static mesh [0.37s] /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/SM_Rock_S_02.SM_Rock_S_02
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Display: Building static mesh SM_Birds_01...
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Built static mesh [0.03s] /Game/RuralAustralia/Effects/Birds/Meshes/SM_Birds_01.SM_Birds_01
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Display: Building static mesh SM_Leaf_01...
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Effects/FallingLeaves/Meshes/SM_Leaf_01.SM_Leaf_01
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Display: Building static mesh SM_Leaf_03...
+[2024.04.06-21.40.51:694][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Effects/FallingLeaves/Meshes/SM_Leaf_03.SM_Leaf_03
+[2024.04.06-21.40.51:694][305]LogMaterial: Display: Missing cached shadermap for M_Horizon_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 246EB46030D64BA74186B3BE6D528C49BBAF0918), compiling. 
+[2024.04.06-21.40.51:780][305]LogMaterial: Display: Missing cached shadermap for M_Delineator_01 in PCD3D_SM5, Default, SM5 (DDC key hash: BA4B4A3D854DFF9DD80D4AE5AC7C651E76DE86D3), compiling. 
+[2024.04.06-21.40.51:958][305]LogMaterial: Display: Missing cached shadermap for M_KangarooSign_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B55F9C39744C54718333966FD4705576D727B7F), compiling. 
+[2024.04.06-21.40.52:062][305]LogMaterial: Display: Missing cached shadermap for M_Reflector_01 in PCD3D_SM5, Default, SM5 (DDC key hash: F8C1E05CCC9D8088EF174B013589A5D584660CAE), compiling. 
+[2024.04.06-21.40.52:348][305]LogStaticMesh: Built static mesh [4.45s] /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/SM_Log_S_01.SM_Log_S_01
+[2024.04.06-21.40.52:348][305]LogStaticMesh: Display: Building static mesh SM_Horizon_01...
+[2024.04.06-21.40.52:348][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Landscape/Horizon_01/SM_Horizon_01.SM_Horizon_01
+[2024.04.06-21.40.52:348][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_A...
+[2024.04.06-21.40.52:348][305]LogMaterial: Display: Missing cached shadermap for M_Road_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 69ED6CE1E2C5158389141516C2C85376367BCA0D), compiling. 
+[2024.04.06-21.40.52:677][305]LogStaticMesh: Built static mesh [0.02s] /Game/RuralAustralia/Scatter/SM_Scatter_01_A.SM_Scatter_01_A
+[2024.04.06-21.40.52:677][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_D...
+[2024.04.06-21.40.52:677][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_D.SM_Scatter_01_D
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_E...
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_E.SM_Scatter_01_E
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_F...
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_F.SM_Scatter_01_F
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_G...
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_G.SM_Scatter_01_G
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_H...
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_H.SM_Scatter_01_H
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_I...
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_I.SM_Scatter_01_I
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Display: Building static mesh SM_Scatter_01_M...
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/Scatter/SM_Scatter_01_M.SM_Scatter_01_M
+[2024.04.06-21.40.52:678][305]LogStaticMesh: Display: Building static mesh SM_Scatter_04_C...
+[2024.04.06-21.40.52:678][305]LogMaterial: Display: Missing cached shadermap for M_RoadLine_Decal_01 in PCD3D_SM5, Default, SM5 (DDC key hash: FAEB07F07D3F843CD768A7F52B5796AC358D9973), compiling. 
+[2024.04.06-21.40.53:032][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_01_CA.T_Branches_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.40.53:032][305]LogStaticMesh: Built static mesh [0.50s] /Game/RuralAustralia/Scatter/SM_Scatter_04_C.SM_Scatter_04_C
+[2024.04.06-21.40.53:032][305]LogStaticMesh: Display: Building static mesh SM_Delineator_01...
+[2024.04.06-21.40.53:032][305]LogMaterial: Display: Missing cached shadermap for MI_Cliff_L_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 984805A882B0058876B17F7B0DE12945A02B67EA), compiling. 
+[2024.04.06-21.40.53:371][305]LogStaticMesh: Built static mesh [0.03s] /Game/RuralAustralia/StaticMeshes/Props/Delineator_01/SM_Delineator_01.SM_Delineator_01
+[2024.04.06-21.40.53:371][305]LogMaterial: Display: Missing cached shadermap for MI_Cliff_M_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F524C32BF9537FE8B481CF5C687D1F47A7E3FDC), compiling. 
+[2024.04.06-21.40.53:711][305]LogMaterial: Display: Missing cached shadermap for MI_Ridge_Dirt_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CE14B7CD4173FFEEA8F37F4CAE45EFB4F7DA7FB), compiling. 
+[2024.04.06-21.40.54:036][305]LogStaticMesh: Display: Building static mesh SM_Fence_01...
+[2024.04.06-21.40.54:036][305]LogMaterial: Display: Missing cached shadermap for MI_Tree_L_01_Leaves in PCD3D_SM5, Default, SM5 (DDC key hash: BA9A92AE1901DBA9C8630C95A21A279834866CAC), compiling. 
+[2024.04.06-21.40.54:639][305]LogMaterial: Display: Missing cached shadermap for M_Nature_Tile_01 in PCD3D_SM5, Default, SM5 (DDC key hash: AAF92F5599898250316D6B28EF09D360DA6A462D), compiling. 
+[2024.04.06-21.40.54:980][305]LogMaterial: Display: Missing cached shadermap for MI_Tree_L_01_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: CA01D47038528C02CF48AD4BD05A78D5BA4FC153), compiling. 
+[2024.04.06-21.40.55:382][305]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F8601068E6BDEB948761518AE8DB0035DAEBCAD), compiling. 
+[2024.04.06-21.40.55:810][305]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_40 in PCD3D_SM5, Default, SM5 (DDC key hash: CAF0909DBD32D6E28C520CB0407F7215D0CCDB9F), compiling. 
+[2024.04.06-21.40.56:161][305]LogStaticMesh: Built static mesh [2.19s] /Game/RuralAustralia/StaticMeshes/Props/Fence_01/SM_Fence_01.SM_Fence_01
+[2024.04.06-21.40.56:161][305]LogStaticMesh: Display: Building static mesh SM_KangarooSign_01...
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Built static mesh [0.38s] /Game/RuralAustralia/StaticMeshes/Props/KangarooSign_01/SM_KangarooSign_01.SM_KangarooSign_01
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Display: Building static mesh SM_Reflector_01...
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Built static mesh [0.01s] /Game/RuralAustralia/StaticMeshes/Props/Reflector_01/SM_Reflector_01.SM_Reflector_01
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Display: Building static mesh SM_Road_01...
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Built static mesh [0.02s] /Game/RuralAustralia/StaticMeshes/Props/Road_01/SM_Road_01.SM_Road_01
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Display: Building static mesh SM_Road_Spline_01...
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Built static mesh [0.03s] /Game/RuralAustralia/StaticMeshes/Props/Road_01/SM_Road_Spline_01.SM_Road_Spline_01
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Display: Building static mesh SM_Cliff_L_01_A...
+[2024.04.06-21.40.57:068][305]LogStaticMesh: Display: Building static mesh SM_Cliff_L_01_B...
+[2024.04.06-21.40.57:163][305]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content
+[2024.04.06-21.40.57:164][305]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/RuralAustralia/Maps/RuralAustralia_Content.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.06-21.40.57:164][305]LightingResults: New page: Lighting Build
+[2024.04.06-21.40.57:164][305]LoadErrors: New page: Loading map: RuralAustralia_Content.umap
+[2024.04.06-21.40.57:175][305]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.06-21.40.57:177][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.06-21.40.57:179][305]MapCheck: New page: Map Check
+[2024.04.06-21.40.57:179][305]LightingResults: New page: Lighting Build
+[2024.04.06-21.40.57:208][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.06-21.40.57:223][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.06-21.40.57:247][305]LogTexture: Display: Waiting for textures to be ready 0/175 (/Engine/EditorResources/AudioIcons/S_AudioComponent_AutoActivate) ...
+[2024.04.06-21.41.01:606][305]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.04.06-21.41.01:606][305]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049330s
+[2024.04.06-21.41.02:275][305]LogStaticMesh: Built static mesh [14.33s] /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/SM_Log_S_02.SM_Log_S_02
+[2024.04.06-21.41.02:364][305]LogTexture: Display: Waiting for textures to be ready 13/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_01_NA) ...
+[2024.04.06-21.41.02:833][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_01_NA.T_Branches_01_NA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.03:474][305]LogTexture: Display: Waiting for textures to be ready 14/175 (/Game/RuralAustralia/Scatter/T_Scatter_01_CA) ...
+[2024.04.06-21.41.04:972][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_01_CA.T_Scatter_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.07:541][305]LogStaticMesh: Built static mesh [10.63s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/SM_Cliff_L_01_B.SM_Cliff_L_01_B
+[2024.04.06-21.41.07:641][305]LogTexture: Display: Waiting for textures to be ready 15/175 (/Game/RuralAustralia/Scatter/T_Scatter_01_NA) ...
+[2024.04.06-21.41.07:963][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_01_NA.T_Scatter_01_NA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.08:732][305]LogTexture: Display: Waiting for textures to be ready 16/175 (/Game/RuralAustralia/Scatter/T_Scatter_02_CA) ...
+[2024.04.06-21.41.09:017][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_02_NA.T_Scatter_02_NA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.09:017][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_02_CA.T_Scatter_02_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.12:332][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_Tile_01_CA.T_Branches_Tile_01_CA (TFO_AutoDXT, 512X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.12:332][305]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2024.04.06-21.41.12:332][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_Tile_01_NA.T_Branches_Tile_01_NA (TFO_AutoDXT, 256X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.12:332][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_03_CA.T_Scatter_03_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.12:332][305]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049977s
+[2024.04.06-21.41.12:961][305]LogStaticMesh: Built static mesh [16.47s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/SM_Cliff_L_01_A.SM_Cliff_L_01_A
+[2024.04.06-21.41.13:175][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_03_NA.T_Scatter_03_NA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.13:391][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_04_NA.T_Scatter_04_NA (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.13:602][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_04B_CA.T_Scatter_04B_CA (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.13:784][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_NA.T_GrassTree_01_NA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.13:784][305]LogTexture: Display: Waiting for textures to be ready 24/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_CA) ...
+[2024.04.06-21.41.14:034][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_Billboard_CA.T_Tree_L_01_Billboard_CA (TFO_AutoDXT, 2048X512 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:034][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_CA.T_GrassTree_01_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:034][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_Billboard_NA.T_Tree_L_01_Billboard_NA (TFO_BC7, 2048X512 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:248][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_05_Billboard_CA.T_Scatter_05_Billboard_CA (TFO_AutoDXT, 512X64 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:248][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_05_Billboard_NA.T_Scatter_05_Billboard_NA (TFO_BC7, 256X32 X1X1) (Required Memory Estimate: 0.15625 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:461][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:461][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:461][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:461][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:461][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:676][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:676][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_15 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:676][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_16 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:676][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:676][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:676][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:888][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:888][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:888][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:888][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.14:888][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:315][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:315][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:315][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:315][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_10 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:529][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:529][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:529][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:529][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:529][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_15 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:529][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_16 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_18 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:743][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:922][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_8 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:922][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:LQ_Lightmap_1_9 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:922][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:DeprecatedTextureB0D7B0334379B646CE0D14BC7110615B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:922][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content_BuiltData.RuralAustralia_Content_BuiltData:NewReflectionComponentTextureB0D7B0334379B646CE0D14BC7110615B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.15:922][305]LogTexture: Display: Waiting for textures to be ready 27/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_Billboard_NA) ...
+[2024.04.06-21.41.16:164][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_02_Billboard_CA.T_GrassTree_02_Billboard_CA (TFO_AutoDXT, 512X128 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.16:164][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_02_Billboard_NA.T_GrassTree_02_Billboard_NA (TFO_BC7, 512X128 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.16:222][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_Base_01_NA.T_GrassTree_Base_01_NA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.16:222][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_Base_01_CA.T_GrassTree_Base_01_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.16:222][305]LogTexture: Display: Waiting for textures to be ready 68/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_Base_01_CA) ...
+[2024.04.06-21.41.16:581][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_03_Billboard_CA.T_GrassTree_03_Billboard_CA (TFO_AutoDXT, 256X32 X1X1) (Required Memory Estimate: 0.15625 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.16:581][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_03_Billboard_NA.T_GrassTree_03_Billboard_NA (TFO_BC7, 512X64 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.16:794][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Snake_01/T_Snake_01_CA.T_Snake_01_CA (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.17:008][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Snake_01/T_Snake_01_NA.T_Snake_01_NA (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.17:221][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_04_Billboard_CA.T_GrassTree_04_Billboard_CA (TFO_AutoDXT, 256X64 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.17:221][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_04_Billboard_NA.T_GrassTree_04_Billboard_NA (TFO_BC7, 256X64 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.18:060][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/T_Log_S_01_CA.T_Log_S_01_CA (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.18:060][305]LogTexture: Display: Waiting for textures to be ready 78/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/T_Log_S_01_CA) ...
+[2024.04.06-21.41.18:473][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/T_Log_S_01_NA.T_Log_S_01_NA (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.19:329][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/T_Log_S_02_CA.T_Log_S_02_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.20:857][305]LogTexture: Display: Waiting for textures to be ready 79/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/T_Log_S_01_NA) ...
+[2024.04.06-21.41.21:600][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Scatter/T_Scatter_04_CA.T_Scatter_04_CA (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.21:600][305]LogTexture: Display: Waiting for textures to be ready 80/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/T_Log_S_02_CA) ...
+[2024.04.06-21.41.22:031][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/T_Rock_M_03_CA.T_Rock_M_03_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.22:462][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/T_Log_S_02_NA.T_Log_S_02_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.23:535][305]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (3.529 seconds, threshold is 0.300 s), will parallelize next time.
+[2024.04.06-21.41.25:185][305]LogTexture: Display: Waiting for textures to be ready 81/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/T_Log_S_02_NA) ...
+[2024.04.06-21.41.25:669][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/T_Rock_S_01_CA.T_Rock_S_01_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.25:669][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/T_Rock_M_03_NA.T_Rock_M_03_NA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.27:597][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/T_Rock_S_01_NA.T_Rock_S_01_NA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.28:037][305]LogTexture: Display: Waiting for textures to be ready 87/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Dirt_01_CA) ...
+[2024.04.06-21.41.29:285][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Dirt_01_CA.T_Ground_Dirt_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.29:499][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Grass_01_CA.T_Ground_Grass_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.29:712][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Dirt_01_NA.T_Ground_Dirt_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.38:004][305]LogTexture: Display: Waiting for textures to be ready 90/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Grass_01_NA) ...
+[2024.04.06-21.41.38:273][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Grass_01_NA.T_Ground_Grass_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.38:916][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Gravel_01_CA.T_Ground_Gravel_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.40:836][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Gravel_01_NA.T_Ground_Gravel_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.44:352][305]LogTexture: Display: Waiting for textures to be ready 91/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Gravel_01_CA) ...
+[2024.04.06-21.41.45:962][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Leaves_01_CA.T_Ground_Leaves_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.46:634][305]LogTexture: Display: Waiting for textures to be ready 92/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Gravel_01_NA) ...
+[2024.04.06-21.41.48:353][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Leaves_01_NA.T_Ground_Leaves_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.50:953][305]LogTexture: Display: Waiting for textures to be ready 93/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Leaves_01_CA) ...
+[2024.04.06-21.41.51:558][305]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.140 and deleted 0 file(s) with total size 0 MiB.
+[2024.04.06-21.41.52:617][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Stones_01_CA.T_Ground_Stones_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.53:869][305]LogTexture: Display: Waiting for textures to be ready 94/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Leaves_01_NA) ...
+[2024.04.06-21.41.55:616][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Ground_Stones_01_NA.T_Ground_Stones_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.57:236][305]LogTexture: Display: Waiting for textures to be ready 95/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Stones_01_CA) ...
+[2024.04.06-21.41.57:735][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Textures/T_Distant_Ground_01_CA.T_Distant_Ground_01_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.58:588][305]LogTexture: Display: Waiting for textures to be ready 96/175 (/Game/RuralAustralia/Landscape/Textures/T_Ground_Stones_01_NA) ...
+[2024.04.06-21.41.58:804][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Effects/Birds/Meshes/T_Birds_01_CA.T_Birds_01_CA (TFO_AutoDXT, 256X512 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.59:018][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Effects/Birds/Meshes/T_Birds_01_NA.T_Birds_01_NA (TFO_AutoDXT, 256X512 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.59:018][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Effects/FallingLeaves/EM_FallingLeaves.EM_FallingLeaves:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.59:234][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Landscape/Horizon_01/T_Horizon_01_CA.T_Horizon_01_CA (TFO_AutoDXT, 4096X256 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.59:659][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Delineator_01/T_Delineator_01_CA.T_Delineator_01_CA (TFO_AutoDXT, 128X1024 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.59:659][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Sky/HDRI_02.HDRI_02 (RGBA16F, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.59:875][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Delineator_01/T_Delineator_01_NA.T_Delineator_01_NA (TFO_AutoDXT, 64X512 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2024.04.06-21.41.59:875][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/KangarooSign_01/T_KangarooSign_01_N.T_KangarooSign_01_N (TFO_BC5, 512X1024 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.00:090][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/KangarooSign_01/T_KangarooSign_01_CA.T_KangarooSign_01_CA (TFO_AutoDXT, 1024X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.00:303][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Reflector_01/T_Reflector_01_CA.T_Reflector_01_CA (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.00:303][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Reflector_01/T_Reflector_01_N.T_Reflector_01_N (TFO_BC5, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.00:733][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_CA.T_Road_01_CA (TFO_AutoDXT, 4096X1024 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.01:379][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_NA.T_Road_01_NA (TFO_AutoDXT, 4096X1024 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.01:791][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_Tile_NA.T_Road_01_Tile_NA (TFO_BC7, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.01:814][305]LogTexture: Display: Waiting for textures to be ready 115/175 (/Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_CA) ...
+[2024.04.06-21.42.02:156][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_RoadLine_Decal_01_CA.T_RoadLine_Decal_01_CA (TFO_AutoDXT, 64X512 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.02:156][305]LogTexture: Display: Waiting for textures to be ready 116/175 (/Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_NA) ...
+[2024.04.06-21.42.02:210][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_RoadLine_Decal_01_NA.T_RoadLine_Decal_01_NA (TFO_BC5, 64X512 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.02:960][305]LogTexture: Display: Waiting for textures to be ready 120/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/T_Cliff_L_01_CA) ...
+[2024.04.06-21.42.03:709][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/T_Cliff_L_01_CA.T_Cliff_L_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.03:925][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/T_Cliff_L_01_NA.T_Cliff_L_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.04:353][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/T_Cliff_M_01_CA.T_Cliff_M_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.10:446][305]LogTexture: Display: Waiting for textures to be ready 122/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/T_Cliff_M_01_CA) ...
+[2024.04.06-21.42.11:083][305]LogTexture: Display: Waiting for textures to be ready 123/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/T_Cliff_M_01_NA) ...
+[2024.04.06-21.42.11:422][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/T_Cliff_M_01_NA.T_Cliff_M_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.11:852][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/T_Cliff_M_02_CA.T_Cliff_M_02_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.12:495][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/T_Cliff_M_02_NA.T_Cliff_M_02_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.16:749][305]LogTexture: Display: Waiting for textures to be ready 124/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/T_Cliff_M_02_CA) ...
+[2024.04.06-21.42.17:312][305]LogTexture: Display: Waiting for textures to be ready 125/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/T_Cliff_M_02_NA) ...
+[2024.04.06-21.42.17:991][305]LogTexture: Display: Waiting for textures to be ready 126/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/T_Cliff_M_03_CA) ...
+[2024.04.06-21.42.18:278][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/T_Cliff_M_03_CA.T_Cliff_M_03_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.18:703][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_01_CA.T_Ridge_Dirt_01_CA (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.19:347][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/T_Cliff_M_03_NA.T_Cliff_M_03_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.22:677][305]LogTexture: Display: Waiting for textures to be ready 127/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/T_Cliff_M_03_NA) ...
+[2024.04.06-21.42.23:198][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_01_NA.T_Ridge_Dirt_01_NA (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.23:413][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_02_CA.T_Ridge_Dirt_02_CA (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.24:709][305]LogTexture: Display: Waiting for textures to be ready 129/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_01_NA) ...
+[2024.04.06-21.42.25:813][305]LogTexture: Display: Waiting for textures to be ready 130/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_02_CA) ...
+[2024.04.06-21.42.26:062][305]LogTexture: Display: Waiting for textures to be ready 131/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/T_Ridge_Rock_01_CA) ...
+[2024.04.06-21.42.26:402][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/T_Ridge_Rock_01_CA.T_Ridge_Rock_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.27:473][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/T_Ridge_Rock_01_NA.T_Ridge_Rock_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.27:686][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/T_Ridge_Rock_02_CA.T_Ridge_Rock_02_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.33:078][305]LogTexture: Display: Waiting for textures to be ready 132/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/T_Ridge_Rock_01_NA) ...
+[2024.04.06-21.42.34:577][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/T_Ridge_Rock_02_NA.T_Ridge_Rock_02_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.35:465][305]LogTexture: Display: Waiting for textures to be ready 134/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/T_Ridge_Rock_02_NA) ...
+[2024.04.06-21.42.35:859][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/T_Rock_M_01_CA.T_Rock_M_01_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.35:859][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/T_Rock_M_01_NA.T_Rock_M_01_NA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.38:220][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/T_Rock_M_02_CA.T_Rock_M_02_CA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.38:652][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/T_Rock_M_02_NA.T_Rock_M_02_NA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.40:195][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_Billboard_CA.T_GrassTree_01_Billboard_CA (TFO_AutoDXT, 512X128 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.40:195][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_Billboard_NA.T_GrassTree_01_Billboard_NA (TFO_BC7, 512X128 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.40:195][305]LogTexture: Display: Waiting for textures to be ready 138/175 (/Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/T_Rock_M_02_NA) ...
+[2024.04.06-21.42.40:337][305]LogTexture: Display: Waiting for textures to be ready 141/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/T_Log_L_01_CA) ...
+[2024.04.06-21.42.44:624][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/T_Log_L_01_CA.T_Log_L_01_CA (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.53:464][305]LogTexture: Display: Waiting for textures to be ready 142/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/T_Log_L_01_NA) ...
+[2024.04.06-21.42.54:876][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/T_Log_M_01_CA.T_Log_M_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.55:090][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/T_Log_M_01_NA.T_Log_M_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.42.59:152][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/T_Log_L_01_NA.T_Log_L_01_NA (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.03:011][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_CA.T_Tree_L_01_CA (TFO_AutoDXT, 2048X4096 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.03:226][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_NA.T_Tree_L_01_NA (TFO_AutoDXT, 2048X4096 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.11:120][305]LogShaderCompilers: Display: ================================================
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: Total job queries 3645, among them cache hits 0 (0.00%)
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 141 distinct outputs (81.03%)
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: RAM used: 0.37 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.09%
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: Shaders Compiled: 3645
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: Jobs assigned 214, completed 174 (81.31%)
+[2024.04.06-21.43.11:121][305]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Time job spent in pending queue: average 63.91 s, longest 150.28 s
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Job execution time: average 15.11 s, max 34.06 s
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Job life time (pending + execution): average 66.07 s, max 150.28
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 150.60 s
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Jobs were issued in 100 batches (only local compilation was used), average 2.14 jobs/batch
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Average processing rate: 1.16 jobs/sec
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Effective parallelization: 2.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    1 times, average 6.09 sec, max 6.09 sec, min 6.09 sec)
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    1 times, average 5.80 sec, max 5.80 sec, min 5.80 sec)
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 4.24 sec, max 6.26 sec, min 3.14 sec)
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    1 times, average 3.71 sec, max 3.71 sec, min 3.71 sec)
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 3.63 sec, max 3.63 sec, min 3.63 sec)
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                                                  FHitProxyVS - 11.17% of total time (compiled   14 times, average 2.95 sec, max 7.94 sec, min 1.54 sec)
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 9.32% of total time (compiled   12 times, average 2.87 sec, max 6.49 sec, min 1.32 sec)
+[2024.04.06-21.43.11:122][305]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.23% of total time (compiled   14 times, average 2.43 sec, max 4.20 sec, min 1.47 sec)
+[2024.04.06-21.43.11:123][305]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 8.15% of total time (compiled   11 times, average 2.74 sec, max 4.36 sec, min 1.72 sec)
+[2024.04.06-21.43.11:123][305]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.90% of total time (compiled    7 times, average 2.59 sec, max 3.35 sec, min 2.11 sec)
+[2024.04.06-21.43.11:123][305]LogShaderCompilers: Display: ================================================
+[2024.04.06-21.43.12:250][305]LogTexture: Display: Waiting for textures to be ready 147/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_CA) ...
+[2024.04.06-21.43.12:519][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_Billboard_CA.T_Tree_M_01_Billboard_CA (TFO_AutoDXT, 2048X512 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.12:734][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_Billboard_NA.T_Tree_M_01_Billboard_NA (TFO_BC7, 2048X512 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.13:588][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_CA.T_Tree_M_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.13:802][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_NA.T_Tree_M_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.16:579][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_CA.T_Tree_M_02_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.19:193][305]LogTexture: Display: Waiting for textures to be ready 151/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_CA) ...
+[2024.04.06-21.43.19:354][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_Billboard_CA.T_Tree_M_02_Billboard_CA (TFO_AutoDXT, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.19:568][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_Billboard_NA.T_Tree_M_02_Billboard_NA (TFO_BC7, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.20:425][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_NA.T_Tree_M_02_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.21:927][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_CA.T_Tree_M_03_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.22:058][305]LogTexture: Display: Waiting for textures to be ready 152/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_NA) ...
+[2024.04.06-21.43.23:839][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_NA.T_Tree_M_03_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.26:687][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_Billboard_CA.T_Tree_M_03_Billboard_CA (TFO_AutoDXT, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.26:731][305]LogTexture: Display: Waiting for textures to be ready 155/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_CA) ...
+[2024.04.06-21.43.26:889][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_Billboard_NA.T_Tree_M_03_Billboard_NA (TFO_BC7, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.27:263][305]LogTexture: Display: Waiting for textures to be ready 156/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_NA) ...
+[2024.04.06-21.43.28:806][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_CA.T_Tree_M_04_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.30:107][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_Billboard_CA.T_Tree_M_04_Billboard_CA (TFO_AutoDXT, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.30:107][305]LogTexture: Display: Waiting for textures to be ready 159/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_CA) ...
+[2024.04.06-21.43.30:321][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_Billboard_NA.T_Tree_M_04_Billboard_NA (TFO_BC7, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.30:321][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_NA.T_Tree_M_04_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.32:860][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_CA.T_Tree_S_01_CA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.34:005][305]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.04.06-21.43.34:346][305]LogTexture: Display: Waiting for textures to be ready 160/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_NA) ...
+[2024.04.06-21.43.36:457][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_NA.T_Tree_S_01_NA (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_Billboard_CA.T_Tree_S_01_Billboard_CA (TFO_AutoDXT, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_Billboard_NA.T_Tree_S_01_Billboard_NA (TFO_BC7, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_4 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_5 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_9 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_6 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_8 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_7 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_12 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogTexture: Display: Building textures: /Game/RuralAustralia/Maps/RuralAustralia_Content.RuralAustralia_Content:PersistentLevel.Landscape_0.Texture2D_10 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.04.06-21.43.41:193][305]LogStaticMesh: Display: Building static mesh SM_Cliff_M_01_A...
+[2024.04.06-21.43.41:193][305]LogStaticMesh: Display: Building static mesh SM_Cliff_M_01_B...
+[2024.04.06-21.43.41:217][305]LogTexture: Display: Waiting for textures to be ready 164/175 (/Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_NA) ...
+[2024.04.06-21.43.41:792][305]LogStaticMesh: Display: Building static mesh SM_Cliff_M_02_A...
+[2024.04.06-21.43.41:792][305]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.002674s (149.507698s overbudget)
+[2024.04.06-21.43.43:850][305]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.04.06-21.43.46:573][305]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049925s
+[2024.04.06-21.43.52:539][305]LogStaticMesh: Built static mesh [13.84s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/SM_Cliff_M_01_B.SM_Cliff_M_01_B
+[2024.04.06-21.43.52:746][305]LogStaticMesh: Display: Building static mesh SM_Cliff_M_02_B...
+[2024.04.06-21.43.55:646][305]LogStaticMesh: Built static mesh [17.09s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/SM_Cliff_M_01_A.SM_Cliff_M_01_A
+[2024.04.06-21.43.55:854][305]LogStaticMesh: Display: Building static mesh SM_Cliff_M_02_C...
+[2024.04.06-21.43.59:160][305]LogStaticMesh: Built static mesh [17.26s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/SM_Cliff_M_02_A.SM_Cliff_M_02_A
+[2024.04.06-21.43.59:160][305]LogStaticMesh: Display: Building static mesh SM_Cliff_M_03...
+[2024.04.06-21.44.05:575][305]LogStaticMesh: Built static mesh [12.85s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/SM_Cliff_M_02_B.SM_Cliff_M_02_B
+[2024.04.06-21.44.05:575][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Dirt_01_A...
+[2024.04.06-21.44.05:993][305]LogStaticMesh: Built static mesh [10.13s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/SM_Cliff_M_02_C.SM_Cliff_M_02_C
+[2024.04.06-21.44.05:993][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Dirt_01_A_NoOverlay...
+[2024.04.06-21.44.13:378][305]LogStaticMesh: Built static mesh [14.27s] /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/SM_Cliff_M_03.SM_Cliff_M_03
+[2024.04.06-21.44.13:581][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Dirt_01_B...
+[2024.04.06-21.44.15:604][305]LogStaticMesh: Built static mesh [9.99s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_A.SM_Ridge_Dirt_01_A
+[2024.04.06-21.44.15:604][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Dirt_01_B_NoOverlay...
+[2024.04.06-21.44.16:011][305]LogStaticMesh: Built static mesh [9.99s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_A_NoOverlay.SM_Ridge_Dirt_01_A_NoOverlay
+[2024.04.06-21.44.16:011][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Dirt_02_A...
+[2024.04.06-21.44.23:429][305]LogStaticMesh: Built static mesh [9.88s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_B.SM_Ridge_Dirt_01_B
+[2024.04.06-21.44.23:429][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Dirt_02_B...
+[2024.04.06-21.44.25:500][305]LogStaticMesh: Built static mesh [9.76s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_B_NoOverlay.SM_Ridge_Dirt_01_B_NoOverlay
+[2024.04.06-21.44.25:500][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Rock_01...
+[2024.04.06-21.44.25:707][305]LogStaticMesh: Built static mesh [9.79s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_02_A.SM_Ridge_Dirt_02_A
+[2024.04.06-21.44.25:914][305]LogStaticMesh: Display: Building static mesh SM_Ridge_Rock_02...
+[2024.04.06-21.44.33:167][305]LogStaticMesh: Built static mesh [9.64s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_02_B.SM_Ridge_Dirt_02_B
+[2024.04.06-21.44.33:167][305]LogStaticMesh: Display: Building static mesh SM_Rock_M_01...
+[2024.04.06-21.44.33:994][305]LogStaticMesh: Built static mesh [0.93s] /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/SM_Rock_M_01.SM_Rock_M_01
+[2024.04.06-21.44.33:994][305]LogStaticMesh: Display: Building static mesh SM_Rock_M_02...
+[2024.04.06-21.44.34:817][305]LogStaticMesh: Built static mesh [0.75s] /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/SM_Rock_M_02.SM_Rock_M_02
+[2024.04.06-21.44.34:817][305]LogStaticMesh: Display: Building static mesh SM_GrassTree_01...
+[2024.04.06-21.44.35:024][305]LogStaticMesh: Built static mesh [0.14s] /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_01.SM_GrassTree_01
+[2024.04.06-21.44.35:024][305]LogStaticMesh: Display: Building static mesh SM_Log_L_01...
+[2024.04.06-21.44.38:535][305]LogStaticMesh: Built static mesh [12.62s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/SM_Ridge_Rock_02.SM_Ridge_Rock_02
+[2024.04.06-21.44.38:535][305]LogStaticMesh: Display: Building static mesh SM_Log_M_01...
+[2024.04.06-21.44.40:188][305]LogStaticMesh: Built static mesh [14.75s] /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/SM_Ridge_Rock_01.SM_Ridge_Rock_01
+[2024.04.06-21.44.40:188][305]LogStaticMesh: Display: Building static mesh SM_Tree_L_01...
+[2024.04.06-21.44.43:710][305]LogStaticMesh: Built static mesh [3.43s] /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/SM_Tree_L_01.SM_Tree_L_01
+[2024.04.06-21.44.43:710][305]LogStaticMesh: Display: Building static mesh SM_Tree_M_01...
+[2024.04.06-21.44.44:951][305]LogStaticMesh: Built static mesh [1.16s] /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/SM_Tree_M_01.SM_Tree_M_01
+[2024.04.06-21.44.44:951][305]LogStaticMesh: Display: Building static mesh SM_Tree_M_02...
+[2024.04.06-21.44.45:778][305]LogStaticMesh: Built static mesh [0.75s] /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/SM_Tree_M_02.SM_Tree_M_02
+[2024.04.06-21.44.45:778][305]LogStaticMesh: Display: Building static mesh SM_Tree_M_03...
+[2024.04.06-21.44.46:608][305]LogStaticMesh: Built static mesh [0.90s] /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/SM_Tree_M_03.SM_Tree_M_03
+[2024.04.06-21.44.46:608][305]LogStaticMesh: Display: Building static mesh SM_Tree_M_04...
+[2024.04.06-21.44.47:645][305]LogStaticMesh: Built static mesh [0.97s] /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/SM_Tree_M_04.SM_Tree_M_04
+[2024.04.06-21.44.47:645][305]LogStaticMesh: Display: Building static mesh SM_Tree_S_01...
+[2024.04.06-21.44.48:266][305]LogStaticMesh: Built static mesh [0.62s] /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/SM_Tree_S_01.SM_Tree_S_01
+[2024.04.06-21.44.52:585][305]LogStaticMesh: Built static mesh [17.51s] /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/SM_Log_L_01.SM_Log_L_01
+[2024.04.06-21.44.55:463][305]LogStaticMesh: Built static mesh [16.86s] /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/SM_Log_M_01.SM_Log_M_01

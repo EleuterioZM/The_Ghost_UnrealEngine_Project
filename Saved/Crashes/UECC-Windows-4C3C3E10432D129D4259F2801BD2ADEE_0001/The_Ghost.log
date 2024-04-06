@@ -1,0 +1,1592 @@
+﻿Log file open, 04/05/24 12:02:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6560)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: The_Ghost
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.2538] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="53ff4266420aa08b5833af8f4254facb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.335384
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4C3C3E10432D129D4259F2801BD2ADEE
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.2538] (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.04.05-19.02.27:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.04.05-19.02.27:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.04.05-19.02.27:101][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.04.05-19.02.27:102][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.04.05-19.02.27:104][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.04.05-19.02.27:123][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI: D3D11 adapters:
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     VendorId    : 8086
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     DeviceId    : 5917
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     SubSysId    : 225817aa
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     Revision    : 0007
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.05-19.02.27:126][  0]LogD3D11RHI:     AdapterLuid : 0 69547
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_1)
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:       128/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     VendorId    : 1414
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     DeviceId    : 008c
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     SubSysId    : 0000
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     Revision    : 0000
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.05-19.02.27:278][  0]LogD3D11RHI:     AdapterLuid : 0 70596
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:       0/0/4023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     VendorId    : 8086
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     DeviceId    : 5917
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     SubSysId    : 225817aa
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     Revision    : 0007
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.05-19.02.27:281][  0]LogD3D11RHI:     AdapterLuid : 0 69547
+[2024.04.05-19.02.27:281][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.05-19.02.27:281][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.04.05-19.02.27:281][  0]LogHAL: Display: Platform has ~ 8 GB [8436899840 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.04.05-19.02.27:281][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.04.05-19.02.27:281][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.05-19.02.27:281][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.04.05-19.02.27:282][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.04.05-19.02.27:282][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2024.04.05-19.02.27:282][  0]LogInit: Computer: DESKTOP-6RA9TLN
+[2024.04.05-19.02.27:282][  0]LogInit: User: User
+[2024.04.05-19.02.27:282][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.04.05-19.02.27:282][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.04.05-19.02.27:282][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2024.04.05-19.02.27:282][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.04.05-19.02.27:282][  0]LogMemory: Process Physical Memory: 250.47 MB used, 266.29 MB peak
+[2024.04.05-19.02.27:282][  0]LogMemory: Process Virtual Memory: 195.66 MB used, 195.66 MB peak
+[2024.04.05-19.02.27:282][  0]LogMemory: Physical Memory: 6269.09 MB used,  1776.96 MB free, 8046.05 MB total
+[2024.04.05-19.02.27:282][  0]LogMemory: Virtual Memory: 7811.23 MB used,  2873.62 MB free, 10684.84 MB total
+[2024.04.05-19.02.27:282][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.04.05-19.02.27:287][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.04.05-19.02.27:304][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.04.05-19.02.27:305][  0]LogInit: Using OS detected language (en-US).
+[2024.04.05-19.02.27:305][  0]LogInit: Using OS detected locale (en-US).
+[2024.04.05-19.02.27:310][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2024.04.05-19.02.27:524][  0]LogInit: Setting process to per monitor DPI aware
+[2024.04.05-19.02.27:538][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.04.05-19.02.27:538][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2024.04.05-19.02.27:538][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.05-19.02.27:553][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.04.05-19.02.27:553][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.04.05-19.02.27:678][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.04.05-19.02.27:678][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2024.04.05-19.02.27:678][  0]LogWindows: Attached monitors:
+[2024.04.05-19.02.27:678][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1008), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.04.05-19.02.27:678][  0]LogWindows: Found 1 attached monitors.
+[2024.04.05-19.02.27:678][  0]LogWindows: EnumDisplayDevices:
+[2024.04.05-19.02.27:678][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.04.05-19.02.27:678][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.04.05-19.02.27:679][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.04.05-19.02.27:679][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2024.04.05-19.02.27:679][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2024.04.05-19.02.27:679][  0]LogD3D11RHI:   Driver Version: 30.0.101.1122 (internal:30.0.101.1122, unified:101.1122)
+[2024.04.05-19.02.27:679][  0]LogD3D11RHI:      Driver Date: 11-15-2021
+[2024.04.05-19.02.27:679][  0]LogRHI: Texture pool is 1497 MB (70% of 2139 MB)
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     VendorId    : 8086
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     DeviceId    : 5917
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     SubSysId    : 225817aa
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     Revision    : 0007
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     SharedSystemMemory : 4218449920 bytes
+[2024.04.05-19.02.27:689][  0]LogD3D11RHI:     AdapterLuid : 0 69547
+[2024.04.05-19.02.27:828][  0]LogD3D11RHI: Intel Extensions loaded requested version for UAVOverlap: 1.1.0
+[2024.04.05-19.02.27:828][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2024.04.05-19.02.27:828][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2024.04.05-19.02.27:828][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2024.04.05-19.02.27:828][  0]LogD3D11RHI: Async texture creation enabled
+[2024.04.05-19.02.27:828][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2024.04.05-19.02.27:828][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.04.05-19.02.27:841][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2024.04.05-19.02.30:083][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the Intel graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://downloadcenter.intel.com/product/80939/Graphics
+
+Intel(R) UHD Graphics 620
+Installed: 30.0.101.1122
+Recommended: 30.0.101.1340
+[2024.04.05-19.02.30:092][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyReport_0.log" -log="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyLog_0.log" -project="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject"  -platform=all'
+[2024.04.05-19.02.30:092][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyReport_0.log" -log="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/TurnkeyLog_0.log" -project="C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/The_Ghost.uproject"  -platform=all" ]
+[2024.04.05-19.02.30:125][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.04.05-19.02.30:135][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.04.05-19.02.30:135][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.04.05-19.02.30:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.04.05-19.02.30:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.04.05-19.02.30:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.04.05-19.02.30:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.04.05-19.02.30:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.04.05-19.02.30:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.04.05-19.02.30:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.04.05-19.02.30:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.04.05-19.02.30:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.04.05-19.02.30:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.04.05-19.02.30:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.04.05-19.02.30:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.04.05-19.02.30:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.04.05-19.02.30:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.04.05-19.02.30:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.04.05-19.02.30:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.04.05-19.02.30:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.04.05-19.02.30:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.04.05-19.02.30:206][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.04.05-19.02.30:215][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.04.05-19.02.30:220][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.04.05-19.02.30:220][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.04.05-19.02.30:220][  0]LogTargetPlatformManager:   ADPCM
+[2024.04.05-19.02.30:220][  0]LogTargetPlatformManager:   PCM
+[2024.04.05-19.02.30:225][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.04.05-19.02.30:225][  0]LogTargetPlatformManager:   BINKA
+[2024.04.05-19.02.30:225][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.04.05-19.02.30:225][  0]LogTargetPlatformManager:   OGG
+[2024.04.05-19.02.30:225][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.04.05-19.02.30:225][  0]LogTargetPlatformManager:   OPUS
+[2024.04.05-19.02.30:287][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.04.05-19.02.30:287][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   SF_METAL
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.04.05-19.02.30:294][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.04.05-19.02.30:298][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.04.05-19.02.30:298][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.04.05-19.02.30:298][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.04.05-19.02.30:298][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.04.05-19.02.30:298][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.04.05-19.02.30:298][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.04.05-19.02.30:298][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.04.05-19.02.30:298][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.04.05-19.02.30:299][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.04.05-19.02.30:299][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.05-19.02.30:299][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.04.05-19.02.30:300][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.05-19.02.30:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.04.05-19.02.30:303][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.04.05-19.02.30:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.05-19.02.30:304][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.04.05-19.02.30:330][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.04.05-19.02.30:330][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.05-19.02.30:330][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.04.05-19.02.30:338][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.04.05-19.02.30:338][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1283.39MBs, RandomWriteSpeed=142.11MBs. Assigned SpeedClass 'Local'
+[2024.04.05-19.02.30:339][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.04.05-19.02.30:339][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.04.05-19.02.30:340][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.04.05-19.02.30:350][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.04.05-19.02.30:350][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.04.05-19.02.30:351][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Intermediate/Shaders/WorkingDirectory/8808/).
+[2024.04.05-19.02.30:351][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/DC87398E4691CB4FB29145A652EBA80D/'.
+[2024.04.05-19.02.30:351][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.04.05-19.02.30:351][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2024.04.05-19.02.31:917][  0]LogSlate: Using FreeType 2.10.0
+[2024.04.05-19.02.31:918][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.04.05-19.02.31:963][  0]LogAssetRegistry: FAssetRegistry took 0.0145 seconds to start up
+[2024.04.05-19.02.31:970][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.04.05-19.02.32:210][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.04.05-19.02.32:211][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.04.05-19.02.32:458][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.05-19.02.32:458][  0]LogDeviceProfileManager: Active device profile: [00000A6D39264B40][00000A6D1A27C800 50] WindowsEditor
+[2024.04.05-19.02.32:458][  0]LogDeviceProfileManager: Profiles: [00000A6D39264600][00000A6D2C412800 50] Windows, [00000A6D39264B40][00000A6D1A27C800 50] WindowsEditor, [00000A6D39262F40][00000A6D2CE9A000 50] WindowsServer, [00000A6D39261340][00000A6D2CEE2800 50] WindowsClient, [00000A6D39262D80][00000A6D39280000 50] IOS, [00000A6D39260540][00000A6D39285000 50] iPadAir2, [00000A6D39265780][00000A6D3928A000 50] IPadPro, [00000A6D39265B00][00000A6D39287800 50] iPadAir3, [00000A6D39260FC0][00000A6D3928C800 50] iPadAir4, [00000A6D39261500][00000A6D296AA000 50] iPadMini4, [00000A6D39261DC0][00000A6D39290000 50] iPadMini5, [00000A6D39260E00][00000A6D39295000 50] iPadMini6, [00000A6D39268180][00000A6D3929C800 50] iPhone6S, [00000A6D39268500][00000A6D3929A000 50] iPhone7, [00000A6D39268880][00000A6D39297800 50] iPodTouch7, [00000A6D39262300][00000A6D39282800 50] iPhone6SPlus, [00000A6D39267FC0][00000A6D392B0000 50] iPhone7Plus, [00000A6D392624C0][00000A6D392B5000 50] iPhoneSE, [00000A6D392601C0][00000A6D392B7800 50] iPhone8, [00000A6D39267E00][00000A6D392BA000 50] iPhone8Plus, [00000A6D392608C0][00000A6D392BC800 50] iPhoneX, [00000A6D39263F00][00000A6D39292800 50] iPhoneXS, [00000A6D39265080][00000A6D392C0000 50] iPhoneXSMax, [00000A6D39263100][00000A6D392C5000 50] iPhoneXR, [00000A6D39267A80][00000A6D392C7800 50] iPhone11, [00000A6D39268C00][00000A6D392CA000 50] iPhone11Pro, [00000A6D392678C0][00000A6D392CC800 50] iPhone11ProMax, [00000A6D39265CC0][00000A6D392B2800 50] iPhoneSE2, [00000A6D39265240][00000A6D392D0000 50] iPhone12Mini, [00000A6D39264440][00000A6D392D5000 50] iPhone12, [00000A6D39265940][00000A6D392D7800 50] iPhone12Pro, [00000A6D39264280][00000A6D392DA000 50] iPhone12ProMax, [00000A6D39266740][00000A6D392DC800 50] iPhone13Mini, [00000A6D392640C0][00000A6D392C2800 50] iPhone13, [00000A6D39260380][00000A6D392E0000 50] iPhone13Pro, [00000A6D392639C0][00000A6D392E5000 50] iPhone13ProMax, [00000A6D39267700][00000A6D392E7800 50] iPadPro105, [00000A6D39262140][00000A6D392EA000 50] iPadPro129, [00000A6D39266040][00000A6D392EC800 50] iPadPro97, [00000A6D39261C00][00000A6D392D2800 50] iPadPro2_129, [00000A6D39261180][00000A6D392F0000 50] iPad5, [00000A6D392686C0][00000A6D392F5000 50] iPad6, [00000A6D39268A40][00000A6D392F7800 50] iPad7, [00000A6D39268340][00000A6D392FA000 50] iPad8, [00000A6D39260C40][00000A6D392FC800 50] iPad9, [00000A6D392671C0][00000A6D392E2800 50] iPadPro11, [00000A6D39263480][00000A6D39310000 50] iPadPro2_11, [00000A6D392616C0][00000A6D39315000 50] iPadPro3_11, [00000A6D39261880][00000A6D39317800 50] iPadPro3_129, [00000A6D39263D40][00000A6D3931A000 50] iPadPro4_129, [00000A6D39260700][00000A6D3931C800 50] iPadPro5_129, [00000A6D39263800][00000A6D392F2800 50] AppleTV, [00000A6D39266200][00000A6D39320000 50] AppleTV4K, [00000A6D39262BC0][00000A6D39325000 50] TVOS, [00000A6D3926A2C0][00000A6D3932A000 50] Mac, [00000A6D3926A640][00000A6D39327800 50] MacEditor, [00000A6D39267380][00000A6D3932C800 50] MacClient, [00000A6D39267C40][00000A6D39312800 50] MacServer, [00000A6D392655C0][00000A6D39332800 50] Linux, [00000A6D39268DC0][00000A6D39330000 50] LinuxEditor, [00000A6D392694C0][00000A6D39337800 50] LinuxArm64Editor, [00000A6D39265E80][00000A6D3933A000 50] LinuxArm64, [00000A6D39269D80][00000A6D3933C800 50] LinuxClient, [00000A6D39263640][00000A6D39322800 50] LinuxArm64Client, [00000A6D39268F80][00000A6D39340000 50] LinuxServer, [00000A6D39262680][00000A6D39345000 50] LinuxArm64Server, [00000A6D39260000][00000A6D39347800 50] Android, [00000A6D39266900][00000A6D3934A000 50] Android_Preview_OpenGL, [00000A6D39260A80][00000A6D3934C800 50] Android_Preview_Vulkan, [00000A6D39266E40][00000A6D39335000 50] Android_Low, [00000A6D3926A100][00000A6D39350000 50] Android_Mid, [00000A6D3926AB80][00000A6D39355000 50] Android_High, [00000A6D39266580][00000A6D39357800 50] Android_Default, [00000A6D3926A9C0][00000A6D3935A000 50] Android_Adreno4xx, [00000A6D39267540][00000A6D3935C800 50] Android_Adreno5xx_Low, [00000A6D39261F80][00000A6D39342800 50] Android_Adreno5xx, [00000A6D3926A480][00000A6D39360000 50] Android_Adreno6xx, [00000A6D39269300][00000A6D39365000 50] Android_Adreno6xx_Vulkan, [00000A6D39269140][00000A6D39367800 50] Android_Adreno7xx, [00000A6D39262A00][00000A6D3936A000 50] Android_Adreno7xx_Vulkan, [00000A6D39261A40][00000A6D3936C800 50] Android_Mali_T6xx, [00000A6D39269680][00000A6D39352800 50] Android_Mali_T7xx, [00000A6D39264EC0][00000A6D39370000 50] Android_Mali_T8xx, [00000A6D3926A800][00000A6D39375000 50] Android_Mali_G71, [00000A6D3926B280][00000A6D39377800 50] Android_Mali_G72, [00000A6D3926BD00][00000A6D3937A000 50] Android_Mali_G72_Vulkan, [00000A6D3926BEC0][00000A6D3937C800 50] Android_Mali_G76, [00000A6D3926C080][00000A6D39362800 50] Android_Mali_G76_Vulkan, [00000A6D39263B80][00000A6D39380000 50] Android_Mali_G77, [00000A6D3926C400][00000A6D39385000 50] Android_Mali_G77_Vulkan, [00000A6D39269A00][00000A6D39387800 50] Android_Mali_G78, [00000A6D3926C780][00000A6D3938A000 50] Android_Mali_G78_Vulkan, [00000A6D39269BC0][00000A6D3938C800 50] Android_Mali_G710, [00000A6D3926CB00][00000A6D39372800 50] Android_Mali_G710_Vulkan, [00000A6D3926B440][00000A6D39390000 50] Android_Xclipse_920, [00000A6D3926BB40][00000A6D39395000 50] Android_Xclipse_920_Vulkan, [00000A6D392632C0][00000A6D39397800 50] Android_Vulkan_SM5, [00000A6D3926AD40][00000A6D3939A000 50] Android_PowerVR_G6xxx, [00000A6D392663C0][00000A6D3939C800 50] Android_PowerVR_GT7xxx, [00000A6D3926C5C0][00000A6D39382800 50] Android_PowerVR_GE8xxx, [00000A6D39265400][00000A6D393A0000 50] Android_PowerVR_GM9xxx, [00000A6D3926B0C0][00000A6D393A5000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A6D3926B7C0][00000A6D393A7800 50] Android_TegraK1, [00000A6D3926CCC0][00000A6D393AA000 50] Android_Unknown_Vulkan, [00000A6D39269840][00000A6D393AC800 50] Oculus_Quest, [00000A6D39264D00][00000A6D39392800 50] Oculus_Quest2, [00000A6D39267000][00000A6D393B0000 50] HoloLens, 
+[2024.04.05-19.02.32:459][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.04.05-19.02.32:479][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.04.05-19.02.32:707][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.04.05-19.02.32:707][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.04.05-19.02.32:707][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.04.05-19.02.32:707][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.04.05-19.02.32:707][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.04.05-19.02.32:723][  0]LogNetVersion: The_Ghost 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1906069882)
+[2024.04.05-19.02.32:882][  0]LogSlate: Border
+[2024.04.05-19.02.32:882][  0]LogSlate: BreadcrumbButton
+[2024.04.05-19.02.32:882][  0]LogSlate: Default
+[2024.04.05-19.02.32:882][  0]LogSlate: Icons.Save
+[2024.04.05-19.02.32:882][  0]LogSlate: Icons.Toolbar.Settings
+[2024.04.05-19.02.32:882][  0]LogSlate: ListView
+[2024.04.05-19.02.32:882][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.04.05-19.02.32:882][  0]LogSlate: SoftwareCursor_Grab
+[2024.04.05-19.02.32:882][  0]LogSlate: TableView.DarkRow
+[2024.04.05-19.02.32:882][  0]LogSlate: TableView.Row
+[2024.04.05-19.02.32:882][  0]LogSlate: TreeView
+[2024.04.05-19.02.33:166][  0]SourceControl: Source control is disabled
+[2024.04.05-19.02.33:209][  0]SourceControl: Source control is disabled
+[2024.04.05-19.02.33:209][  0]SourceControl: Source control is disabled
+[2024.04.05-19.02.33:379][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.04.05-19.02.33:379][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2024.04.05-19.02.33:379][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.04.05-19.02.34:226][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 829ED9434AAB3A3B2AD9D5AD7C834F2F | Instance: 4AB3880846D8272AFE4B1B9B8002F822 (DESKTOP-6RA9TLN-8808).
+[2024.04.05-19.02.34:297][  0]LogPython: Using Python 3.9.7
+[2024.04.05-19.02.35:607][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.04.05-19.02.35:613][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.04.05-19.02.37:291][  0]LogSourceControl: Warning: '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/' is not part of a Git repository
+[2024.04.05-19.02.37:438][  0]LogUProjectInfo: Found projects:
+[2024.04.05-19.02.37:447][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.05-19.02.37:448][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.05-19.02.37:449][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.05-19.02.37:854][  0]LogOpenImageDenoise: OIDN starting up
+[2024.04.05-19.02.37:978][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.04.05-19.02.38:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.05-19.02.38:010][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.05-19.02.38:165][  0]LogCollectionManager: Loaded 0 collections in 0.002476 seconds
+[2024.04.05-19.02.38:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Collections/' took 0.00s
+[2024.04.05-19.02.38:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Developers/User/Collections/' took 0.00s
+[2024.04.05-19.02.38:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Collections/' took 0.00s
+[2024.04.05-19.02.38:865][  0]LogEngine: Initializing Engine...
+[2024.04.05-19.02.38:888][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.04.05-19.02.40:174][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.04.05-19.02.40:175][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.02.40:191][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.02.40:242][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.04.05-19.02.40:243][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.04.05-19.02.40:282][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.04.05-19.02.40:290][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.04.05-19.02.40:290][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.04.05-19.02.40:291][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.04.05-19.02.40:291][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.04.05-19.02.40:291][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-19.02.40:291][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-19.02.40:291][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-19.02.40:291][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-19.02.40:291][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-19.02.40:291][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.05-19.02.40:291][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-19.02.40:291][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-19.02.40:292][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-19.02.40:292][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-19.02.40:292][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-19.02.40:304][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-19.02.41:209][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.05-19.02.41:211][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-19.02.41:275][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-19.02.41:275][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-19.02.41:276][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.04.05-19.02.41:276][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.05-19.02.41:279][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.05-19.02.41:279][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.04.05-19.02.41:279][  0]LogInit: FAudioDevice initialized.
+[2024.04.05-19.02.41:280][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.05-19.02.41:280][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.04.05-19.02.41:280][  0]LogInit: Texture streaming: Enabled
+[2024.04.05-19.02.41:345][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.04.05-19.02.41:362][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.04.05-19.02.41:468][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.04.05-19.02.41:487][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.04.05-19.02.41:487][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.04.05-19.02.46:486][  0]LogLiveCoding: Display: First instance in process group "UE_The_Ghost_0x53b4fe30", spawning console
+[2024.04.05-19.02.46:486][  0]LogLiveCoding: Display: Waiting for server
+[2024.04.05-19.02.46:486][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.04.05-19.02.46:536][  0]LogInit: Transaction tracking system initialized
+[2024.04.05-19.02.46:688][  0]BlueprintLog: New page: Editor Load
+[2024.04.05-19.02.47:118][  0]LocalizationService: Localization service is disabled
+[2024.04.05-19.02.47:217][  0]TimingProfiler: Initialize
+[2024.04.05-19.02.47:217][  0]TimingProfiler: OnSessionChanged
+[2024.04.05-19.02.47:217][  0]LoadingProfiler: Initialize
+[2024.04.05-19.02.47:217][  0]LoadingProfiler: OnSessionChanged
+[2024.04.05-19.02.47:217][  0]NetworkingProfiler: Initialize
+[2024.04.05-19.02.47:217][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.05-19.02.47:217][  0]MemoryProfiler: Initialize
+[2024.04.05-19.02.47:217][  0]MemoryProfiler: OnSessionChanged
+[2024.04.05-19.02.47:358][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_10'
+[2024.04.05-19.02.47:358][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_10
+[2024.04.05-19.02.47:602][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.05-19.02.47:603][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.05-19.02.47:604][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.04.05-19.02.48:732][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/' took 0.03s
+[2024.04.05-19.02.48:732][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.04.05-19.02.48:852][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.05-19.02.48:854][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.255
+[2024.04.05-19.02.48:854][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.05-19.02.48:862][  0]LightingResults: New page: Lighting Build
+[2024.04.05-19.02.48:875][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.02.48:876][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.02.48:876][  0]MapCheck: New page: Map Check
+[2024.04.05-19.02.48:876][  0]LightingResults: New page: Lighting Build
+[2024.04.05-19.02.48:889][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-19.02.48:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.05-19.02.51:437][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:437][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:437][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_198' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:437][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_199' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:437][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_200' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:437][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_201' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_202' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_203' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_204' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_237' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_238' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_239' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_240' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_241' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_242' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_243' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:438][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapDark/Sound/Pistol/PistolB_Fire_Cue.PistolB_Fire_Cue:SoundCueGraph_44.SoundCueGraphNode_Root_44' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2024.04.05-19.02.51:617][  0]LogStaticMesh: StaticMesh /Game/Geometry/Meshes/1M_Cube.1M_Cube should be resaved to improve async compilation performance.
+[2024.04.05-19.02.51:618][  0]LogStaticMesh: StaticMesh /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer should be resaved to improve async compilation performance.
+[2024.04.05-19.02.51:635][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.05-19.02.51:635][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.05-19.02.51:635][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.05-19.02.51:635][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.05-19.02.51:635][  0]LogStaticMesh: StaticMesh /Game/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh should be resaved to improve async compilation performance.
+[2024.04.05-19.02.51:654][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2024.04.05-19.02.51:654][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.02.51:654][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.02.51:655][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.05-19.02.51:678][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh) ...
+[2024.04.05-19.02.51:703][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ThirdPerson/Meshes/RightArm_StaticMesh) ...
+[2024.04.05-19.02.51:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.05-19.02.51:779][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.05-19.02.51:779][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-19.02.51:780][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.242ms to complete.
+[2024.04.05-19.02.51:780][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.925
+[2024.04.05-19.02.51:809][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.210
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: ================================================
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.05-19.02.51:809][  0]LogShaderCompilers: Display: ================================================
+[2024.04.05-19.02.52:068][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.02.52:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.02.52:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.02.52:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.02.52:334][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:334][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:353][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:353][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:371][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:371][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:387][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:387][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:417][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:417][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:429][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:429][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:437][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:437][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:446][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:446][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:454][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:454][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:465][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.04.05-19.02.52:465][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.05-19.02.52:466][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.04.05-19.02.53:081][  0]LogSlate: Took 0.012116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.05-19.02.53:102][  0]LogSlate: Took 0.011451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.05-19.02.53:116][  0]LogSlate: Took 0.011257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.05-19.02.53:161][  0]LogViewport: Scene viewport resized to 1520x801, mode Windowed.
+[2024.04.05-19.02.53:931][  0]LogStall: Startup...
+[2024.04.05-19.02.53:934][  0]LogStall: Startup complete.
+[2024.04.05-19.02.53:972][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Left_Trigger.
+[2024.04.05-19.02.53:972][  0]LogInput: Warning: Action ResetVR uses invalid key MotionController_Left_Grip1.
+[2024.04.05-19.02.53:972][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Right_Trigger.
+[2024.04.05-19.02.53:972][  0]LogInput: Warning: Action Jump uses invalid key OculusTouchpad_Touchpad.
+[2024.04.05-19.02.53:972][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.04.05-19.02.53:972][  0]LogLoad: (Engine Initialization) Total time: 28.37 seconds
+[2024.04.05-19.02.53:972][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.05-19.02.54:043][  0]LogAssetRegistry: Asset discovery search completed in 22.0819 seconds
+[2024.04.05-19.02.54:093][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2024.04.05-19.02.54:152][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.05-19.02.54:397][  0]LogSlate: Took 0.004702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.05-19.02.56:293][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.
+[2024.04.05-19.03.04:661][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.Zumbie3) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.04:662][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.Zumbie3
+[2024.04.05-19.03.04:666][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.10:988][125]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.04.05-19.03.10:988][125]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.009911s
+[2024.04.05-19.03.11:425][125]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002057s (1.408792s overbudget)
+[2024.04.05-19.03.11:425][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.11:425][125]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget
+[2024.04.05-19.03.11:428][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.11:433][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.11:443][125]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.05-19.03.11:926][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.11:926][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.11:978][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Meus_Arquivos/Inimigos/Zumbie3/WB_ProgressBar.WB_ProgressBar) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.11:978][125]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Meus_Arquivos/Inimigos/Zumbie3/WB_ProgressBar.WB_ProgressBar
+[2024.04.05-19.03.11:979][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.11:984][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.12:376][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.12:376][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.12:416][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Meus_Arquivos/Menu_Principal.Menu_Principal) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.12:492][125]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Meus_Arquivos/Menu_Principal.Menu_Principal
+[2024.04.05-19.03.12:492][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.12:494][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.12:886][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.12:886][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.12:908][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Meus_Arquivos/WidgetBlueprint/Menu_Graficos.Menu_Graficos) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.12:908][125]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Meus_Arquivos/WidgetBlueprint/Menu_Graficos.Menu_Graficos
+[2024.04.05-19.03.12:908][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.12:911][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.13:285][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.13:285][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.13:304][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Meus_Arquivos/WidgetBlueprint/Menu_Pausa.Menu_Pausa) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.13:304][125]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Meus_Arquivos/WidgetBlueprint/Menu_Pausa.Menu_Pausa
+[2024.04.05-19.03.13:304][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.13:308][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.13:674][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.13:674][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.13:692][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Meus_Arquivos/WidgetBlueprint/HUD.HUD) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.13:751][125]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Meus_Arquivos/WidgetBlueprint/HUD.HUD
+[2024.04.05-19.03.13:751][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.13:754][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.14:137][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.14:137][125]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.04.05-19.03.14:155][125]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2024.04.05-19.03.14:156][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.04.05-19.03.14:156][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.03.14:656][125]LogSlate: Took 0.005225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.05-19.03.25:838][497]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.04.31:195][692]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.567 and deleted 0 file(s) with total size 0 MiB.
+[2024.04.05-19.09.35:033][215]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.09.39:561][320]BlueprintLog: New page: Compile Zumbie3
+[2024.04.05-19.09.39:931][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.04.05-19.09.40:444][320]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.016200 seconds
+[2024.04.05-19.09.40:488][320]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3
+[2024.04.05-19.09.40:489][320]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Zumbie367A7D5AF4A8EB4EE75E2AB9EBD249C4A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.uasset'
+[2024.04.05-19.09.40:517][320]AssetCheck: New page: Asset Save: Zumbie3
+[2024.04.05-19.09.40:518][320]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.Zumbie3
+[2024.04.05-19.10.23:818][518]LogSlate: Took 0.018525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.05-19.10.23:880][518]LogSlate: Took 0.016639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.05-19.10.44:470][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base
+[2024.04.05-19.10.44:470][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.11.46:120][267]LogViewport: Scene viewport resized to 1136x597, mode Windowed.
+[2024.04.05-19.12.54:496][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.04.05-19.12.54:552][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1
+[2024.04.05-19.12.54:552][806]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/ThirdPersonExampleMap_Auto1D5690DF44806DD27D28CA1B94507E1E0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2024.04.05-19.12.54:568][806]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.216
+[2024.04.05-19.12.54:568][806]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.216
+[2024.04.05-19.13.09:119][959]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.17.22:154][ 41]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.17.25:146][120]BlueprintLog: New page: Compile Projectil_Base
+[2024.04.05-19.17.25:314][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.04.05-19.17.25:560][120]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base
+[2024.04.05-19.17.25:562][120]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_Base4B6AD57E42936CA19564E0B07990054E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.uasset'
+[2024.04.05-19.17.25:647][120]AssetCheck: New page: Asset Save: Projectil_Base
+[2024.04.05-19.17.25:647][120]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base
+[2024.04.05-19.17.51:657][  9]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.17.59:980][118]BlueprintLog: New page: Compile Projectil_Base
+[2024.04.05-19.18.00:187][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.04.05-19.18.00:402][118]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base
+[2024.04.05-19.18.00:403][118]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_Base04E26CF4470BFCA0AA3A8FBABA305794.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.uasset'
+[2024.04.05-19.18.00:427][118]AssetCheck: New page: Asset Save: Projectil_Base
+[2024.04.05-19.18.00:427][118]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base
+[2024.04.05-19.18.44:884][744]LogViewport: Scene viewport resized to 1136x597, mode Windowed.
+[2024.04.05-19.21.15:450][321]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.05-19.22.07:899][890]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.23.17:419][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.04.05-19.23.17:420][992]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.129
+[2024.04.05-19.23.17:421][992]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.05-19.23.17:497][992]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2024.04.05-19.23.17:581][992]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2024.04.05-19.23.17:581][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2024.04.05-19.23.17:645][992]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2
+[2024.04.05-19.23.17:647][992]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/ThirdPersonCharacter_Auto218940334451C3A3AC18DC2B1ABE7C33F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2024.04.05-19.23.17:648][992]LogFileHelpers: Auto-saving content packages took 0.228
+[2024.04.05-19.25.22:791][270]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.22:791][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.22:814][270]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.22:814][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.24:293][345]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.24:293][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.24:305][345]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.24:305][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.25:577][412]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.25:577][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.25:588][412]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.25:588][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.27:217][495]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.27:217][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.27:227][495]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.27:227][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.28:719][573]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.28:719][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.28:729][573]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.28:729][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.30:422][663]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.30:423][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.25.30:434][663]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.25.30:434][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.27.19:365][ 92]LogEditorTransaction: Undo Change Class Pin Value
+[2024.04.05-19.27.19:920][ 96]LogEditorTransaction: Undo Change Class Pin Value
+[2024.04.05-19.27.20:560][123]LogEditorTransaction: Undo Change Class Pin Value
+[2024.04.05-19.27.21:729][184]LogEditorTransaction: Undo Add Node
+[2024.04.05-19.30.17:437][486]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-19.30.17:461][486]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-19.30.17:471][486]LogPlayLevel: [PlayLevel] Compiling Civil_AnimBlueprint before play...
+[2024.04.05-19.30.17:489][486]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2024.04.05-19.30.17:876][486]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2024.04.05-19.30.17:878][486]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/ThirdPersonCharacter502C57CD4A5157DD8F3C09B86427B644.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.04.05-19.30.17:995][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.04.05-19.30.17:998][486]LogPlayLevel: PlayLevel: Blueprint regeneration took 536 ms (2 blueprints)
+[2024.04.05-19.30.18:005][486]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 5, 2024, 5:30:17 AM)
+[2024.04.05-19.30.18:019][486]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.05-19.30.18:020][486]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.04.05-19.30.18:022][486]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.30.18:047][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024646s)
+[2024.04.05-19.30.18:047][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025016s)
+[2024.04.05-19.30.18:047][486]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.30.18:048][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.30.18:050][486]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.05-19.30.18:051][486]LogPlayLevel: PIE: World Init took: (0.003312s)
+[2024.04.05-19.30.18:112][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.05-19.30.18:115][486]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.05-19.30.18:115][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-19.30.18:115][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-19.30.18:115][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-19.30.18:115][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-19.30.18:115][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-19.30.18:115][486]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.05-19.30.18:115][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-19.30.18:115][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-19.30.18:116][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-19.30.18:116][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-19.30.18:116][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-19.30.18:119][486]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-19.30.18:149][486]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.05-19.30.18:151][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-19.30.18:151][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-19.30.18:151][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-19.30.18:152][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.05-19.30.18:152][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.05-19.30.18:154][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.05-19.30.18:154][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.05-19.30.18:154][486]LogInit: FAudioDevice initialized.
+[2024.04.05-19.30.18:154][486]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2024.04.05-19.30.18:203][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.30.18:265][486]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.04.05-19.30.18:273][486]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.04.05-12.30.18
+[2024.04.05-19.30.18:303][486]LogWorld: Bringing up level for play took: 0.037969
+[2024.04.05-19.30.18:309][486]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.04.05-19.30.18:420][486]PIE: Server logged in
+[2024.04.05-19.30.18:422][486]PIE: Play in editor total start time 0.968 seconds.
+[2024.04.05-19.30.18:474][486]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.18:475][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.18:476][486]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.18:476][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.18:479][486]LogViewport: Scene viewport resized to 1911x948, mode Windowed.
+[2024.04.05-19.30.18:725][487]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.04.05-19.30.18:725][487]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.04.05-19.30.19:392][487]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.19:392][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:392][487]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.19:392][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:403][488]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.19:403][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:403][488]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.19:403][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:442][489]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.19:442][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:442][489]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.19:442][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:506][490]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.19:506][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:506][490]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.19:506][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:618][491]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.19:618][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:618][491]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.19:618][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:743][492]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.19:743][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:744][492]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.19:744][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:793][493]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_0:00A9
+[2024.04.05-19.30.19:793][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:793][493]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/Meus_Arquivos/WidgetBlueprint/HealthWidget.HealthWidget_C:GetText_1:00A9
+[2024.04.05-19.30.19:794][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:988][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.30.19:988][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.30.42:741][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.30.42:741][719]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.30.42:745][719]LogSlate: Window 'The_Ghost Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2024.04.05-19.30.42:869][719]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.30.42:871][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.30.42:981][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-19.30.42:997][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.30.43:091][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.05-19.30.43:095][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.05-19.30.43:201][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.04.05-19.30.43:465][720]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.04.05-19.30.46:202][851]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.30.46:213][851]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.32.26:429][559]BlueprintLog: New page: Compile Projectil_Base
+[2024.04.05-19.32.26:567][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.04.05-19.32.26:719][559]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base
+[2024.04.05-19.32.26:719][559]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_BaseD944ADEE468F32EB6B787F95ECAFF9E0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.uasset'
+[2024.04.05-19.32.26:740][559]AssetCheck: New page: Asset Save: Projectil_Base
+[2024.04.05-19.32.26:740][559]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base
+[2024.04.05-19.32.29:931][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-19.32.29:945][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.05-19.32.29:946][746]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 5, 2024, 5:32:29 AM)
+[2024.04.05-19.32.29:946][746]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.32.29:961][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015275s)
+[2024.04.05-19.32.29:961][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015428s)
+[2024.04.05-19.32.29:962][746]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.32.29:962][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.32.29:962][746]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.05-19.32.29:962][746]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2024.04.05-19.32.30:034][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2024.04.05-19.32.30:037][746]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.05-19.32.30:037][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-19.32.30:037][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-19.32.30:037][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-19.32.30:037][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-19.32.30:037][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-19.32.30:037][746]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.05-19.32.30:037][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-19.32.30:037][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-19.32.30:038][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-19.32.30:038][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-19.32.30:038][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-19.32.30:040][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-19.32.30:068][746]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.05-19.32.30:069][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-19.32.30:069][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-19.32.30:069][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-19.32.30:071][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.05-19.32.30:071][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.05-19.32.30:073][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.05-19.32.30:073][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.05-19.32.30:073][746]LogInit: FAudioDevice initialized.
+[2024.04.05-19.32.30:073][746]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2024.04.05-19.32.30:126][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.32.30:126][746]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.04.05-19.32.30:140][746]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.04.05-12.32.30
+[2024.04.05-19.32.30:144][746]LogWorld: Bringing up level for play took: 0.016980
+[2024.04.05-19.32.30:150][746]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.04.05-19.32.30:155][746]PIE: Server logged in
+[2024.04.05-19.32.30:156][746]PIE: Play in editor total start time 0.211 seconds.
+[2024.04.05-19.32.30:217][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:218][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:223][746]LogViewport: Scene viewport resized to 1911x948, mode Windowed.
+[2024.04.05-19.32.30:411][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:411][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:513][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:513][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:560][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:561][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:660][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:660][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:748][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:748][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:845][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:845][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:944][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.30:945][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.31:050][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.32.31:051][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.32.35:770][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.32.35:770][795]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.32.35:771][795]LogSlate: Window 'The_Ghost Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2024.04.05-19.32.35:942][795]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.32.35:945][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.32.36:061][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-19.32.36:069][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.32.36:140][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-19.32.36:140][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.05-19.32.36:142][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.05-19.32.36:153][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.04.05-19.32.36:325][796]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.05-19.32.38:291][892]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.32.38:318][892]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.34.02:504][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.04.05-19.34.02:596][549]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3
+[2024.04.05-19.34.02:598][549]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/ThirdPersonExampleMap_Auto37B0AACA84916031D7ED4D2A2858AF61A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2024.04.05-19.34.02:612][549]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.176
+[2024.04.05-19.34.02:612][549]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.176
+[2024.04.05-19.34.02:613][549]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base] ([2] browsable assets)...
+[2024.04.05-19.34.02:653][549]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base]
+[2024.04.05-19.34.02:654][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base]
+[2024.04.05-19.34.02:662][549]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base_Auto3
+[2024.04.05-19.34.02:662][549]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_Base_Auto3B51B30C9484A7EB0A04CE39EEA865BE5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Autosaves/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base_Auto3.uasset'
+[2024.04.05-19.34.02:662][549]LogFileHelpers: Auto-saving content packages took 0.051
+[2024.04.05-19.36.34:172][593]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.39.13:755][  6]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.43.05:340][179]BlueprintLog: New page: Compile Projectil_Base
+[2024.04.05-19.43.05:491][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.04.05-19.43.05:661][179]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base
+[2024.04.05-19.43.05:662][179]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_Base3EAC81674209841778F6E489001CBBF0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.uasset'
+[2024.04.05-19.43.05:705][179]AssetCheck: New page: Asset Save: Projectil_Base
+[2024.04.05-19.43.05:705][179]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base
+[2024.04.05-19.43.09:516][245]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.44.21:152][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.04.05-19.44.21:178][569]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2024.04.05-19.44.21:178][569]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/ThirdPersonExampleMap35395BEF4DB1090C010671B73E4C3255.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.04.05-19.44.21:192][569]LogFileHelpers: No new changes to save!
+[2024.04.05-19.44.21:209][569]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2024.04.05-19.44.21:209][569]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.04.05-19.44.23:105][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-19.44.23:118][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.05-19.44.23:165][591]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 5, 2024, 5:44:23 AM)
+[2024.04.05-19.44.23:165][591]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.44.23:179][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013110s)
+[2024.04.05-19.44.23:179][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013284s)
+[2024.04.05-19.44.23:179][591]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.44.23:179][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.44.23:180][591]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.05-19.44.23:181][591]LogPlayLevel: PIE: World Init took: (0.001600s)
+[2024.04.05-19.44.23:253][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.04.05-19.44.23:254][591]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.05-19.44.23:254][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-19.44.23:254][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-19.44.23:254][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-19.44.23:254][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-19.44.23:254][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-19.44.23:254][591]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.05-19.44.23:254][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-19.44.23:254][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-19.44.23:255][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-19.44.23:255][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-19.44.23:255][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-19.44.23:259][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-19.44.23:288][591]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.05-19.44.23:288][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-19.44.23:288][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-19.44.23:288][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-19.44.23:290][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.05-19.44.23:290][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.05-19.44.23:292][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.05-19.44.23:292][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.05-19.44.23:292][591]LogInit: FAudioDevice initialized.
+[2024.04.05-19.44.23:292][591]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2024.04.05-19.44.23:330][591]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.04.05-19.44.23:334][591]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.04.05-12.44.23
+[2024.04.05-19.44.23:335][591]LogWorld: Bringing up level for play took: 0.004456
+[2024.04.05-19.44.23:337][591]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.04.05-19.44.23:340][591]PIE: Server logged in
+[2024.04.05-19.44.23:341][591]PIE: Play in editor total start time 0.223 seconds.
+[2024.04.05-19.44.23:348][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:348][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:503][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:504][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:513][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:513][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:552][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:553][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:661][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:662][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:736][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:736][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:812][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:813][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:891][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:891][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:965][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.23:965][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.24:044][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.24:044][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.24:115][601]LogScript: Warning: Accessed None trying to read property Equipped_Weapon
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:01DD
+[2024.04.05-19.44.24:115][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Third Person Character Blueprint:  ThirdPersonCharacter
+[2024.04.05-19.44.24:124][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.24:125][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.24:201][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.44.24:202][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.44.39:211][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.44.39:211][784]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.44.39:212][784]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.44.39:213][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.44.39:484][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-19.44.39:493][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.44.39:578][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.44.39:578][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.05-19.44.39:580][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.05-19.44.39:592][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2024.04.05-19.44.39:794][785]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.05-19.44.42:358][809]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.44.42:489][809]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.45.16:678][555]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_0
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.45.16:679][555]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_0
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.45.16:679][555]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_0
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.45.16:679][555]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_0
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.45.19:483][694]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zombie_Death.Zombie_Death
+[2024.04.05-19.47.17:304][211]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.48.31:048][293]BlueprintLog: New page: Compile Zumbie3
+[2024.04.05-19.48.31:165][293]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_1
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.48.31:165][293]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_1
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.48.31:165][293]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_1
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.48.31:165][293]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_1
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.48.31:303][293]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2024.04.05-19.48.31:581][293]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3
+[2024.04.05-19.48.31:582][293]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Zumbie3AE2AD6054DC19D1DD38337BC6B0A9CE1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.uasset'
+[2024.04.05-19.48.31:614][293]AssetCheck: New page: Asset Save: Zumbie3
+[2024.04.05-19.48.31:615][293]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.Zumbie3
+[2024.04.05-19.50.34:960][723]LogEditorTransaction: Undo Delete current selection
+[2024.04.05-19.50.42:434][ 32]LogEditorTransaction: Undo Move Node
+[2024.04.05-19.53.57:477][285]LogSlate: Took 0.001327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.05-19.54.22:888][695]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.05-19.54.37:583][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.04.05-19.54.37:612][737]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4
+[2024.04.05-19.54.37:613][737]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/ThirdPersonExampleMap_Auto454279D1242534636D432458BCD1755E5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2024.04.05-19.54.37:632][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.183
+[2024.04.05-19.54.37:632][737]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.183
+[2024.04.05-19.54.37:633][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3] ([2] browsable assets)...
+[2024.04.05-19.54.37:706][737]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.Zumbie3]
+[2024.04.05-19.54.37:706][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3]
+[2024.04.05-19.54.37:758][737]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3_Auto4
+[2024.04.05-19.54.37:760][737]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Zumbie3_Auto42E23BBC9451F535DF3AE56A5244F88C9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Autosaves/Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3_Auto4.uasset'
+[2024.04.05-19.54.37:762][737]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base] ([2] browsable assets)...
+[2024.04.05-19.54.37:815][737]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base]
+[2024.04.05-19.54.37:815][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base]
+[2024.04.05-19.54.37:828][737]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base_Auto4
+[2024.04.05-19.54.37:828][737]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_Base_Auto428D212014FD18FCD9B2481A13F2FF9EB.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Autosaves/Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base_Auto4.uasset'
+[2024.04.05-19.54.37:831][737]LogFileHelpers: Auto-saving content packages took 0.200
+[2024.04.05-19.55.31:933][984]BlueprintLog: New page: Compile Projectil_Base
+[2024.04.05-19.55.32:056][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.04.05-19.55.32:156][984]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base
+[2024.04.05-19.55.32:158][984]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_Base4DFBB1984846C99FC09F7DB0E20277B3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.uasset'
+[2024.04.05-19.55.32:179][984]AssetCheck: New page: Asset Save: Projectil_Base
+[2024.04.05-19.55.32:179][984]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base
+[2024.04.05-19.55.34:663][151]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-19.55.34:679][151]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-19.55.34:682][151]LogPlayLevel: [PlayLevel] Compiling Zumbie_3_F before play...
+[2024.04.05-19.55.34:686][151]LogPlayLevel: [PlayLevel]   Compiling Zumbie3 as a dependent...
+[2024.04.05-19.55.34:759][151]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_2
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.55.34:759][151]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_2
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.55.34:759][151]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_2
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.55.34:759][151]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_2
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.55.34:956][151]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3
+[2024.04.05-19.55.34:957][151]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Zumbie3F5CCF73B4BF0269E776CDE9E579AD7C9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.uasset'
+[2024.04.05-19.55.35:039][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2024.04.05-19.55.35:041][151]LogPlayLevel: PlayLevel: Blueprint regeneration took 362 ms (2 blueprints)
+[2024.04.05-19.55.35:041][151]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 5, 2024, 5:55:35 AM)
+[2024.04.05-19.55.35:041][151]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.55.35:050][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008450s)
+[2024.04.05-19.55.35:050][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008543s)
+[2024.04.05-19.55.35:050][151]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.55.35:050][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.55.35:051][151]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.05-19.55.35:051][151]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2024.04.05-19.55.35:121][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.04.05-19.55.35:122][151]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.05-19.55.35:122][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-19.55.35:122][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-19.55.35:122][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-19.55.35:122][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-19.55.35:122][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-19.55.35:122][151]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.05-19.55.35:122][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-19.55.35:122][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-19.55.35:123][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-19.55.35:123][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-19.55.35:123][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-19.55.35:126][151]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-19.55.35:155][151]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.05-19.55.35:155][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-19.55.35:155][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-19.55.35:155][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-19.55.35:156][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.05-19.55.35:156][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.05-19.55.35:158][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.05-19.55.35:158][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.05-19.55.35:158][151]LogInit: FAudioDevice initialized.
+[2024.04.05-19.55.35:158][151]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2024.04.05-19.55.35:211][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.55.35:212][151]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.04.05-19.55.35:218][151]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2024.04.05-12.55.35
+[2024.04.05-19.55.35:220][151]LogWorld: Bringing up level for play took: 0.007486
+[2024.04.05-19.55.35:223][151]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.04.05-19.55.35:227][151]PIE: Server logged in
+[2024.04.05-19.55.35:228][151]PIE: Play in editor total start time 0.549 seconds.
+[2024.04.05-19.55.35:241][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:241][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:282][151]LogViewport: Scene viewport resized to 1911x948, mode Windowed.
+[2024.04.05-19.55.35:447][152]AssetCheck: New page: Asset Save: Zumbie3
+[2024.04.05-19.55.35:447][152]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.Zumbie3
+[2024.04.05-19.55.35:456][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:456][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:527][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:528][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:598][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:598][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:695][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:696][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:813][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:813][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:886][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:886][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:977][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.35:977][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:058][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:058][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:152][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:154][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:250][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:250][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:342][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:342][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:431][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:431][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:531][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:532][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:624][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.36:624][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.42:171][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.55.42:171][221]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.55.42:171][221]LogSlate: Window 'The_Ghost Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2024.04.05-19.55.42:323][221]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.55.42:324][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.55.42:430][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-19.55.42:440][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.55.42:512][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.05-19.55.42:514][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.05-19.55.42:524][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.04.05-19.55.42:747][222]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.04.05-19.55.45:061][330]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.55.45:083][330]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.55.57:013][277]BlueprintLog: New page: Compile Projectil_Base
+[2024.04.05-19.55.57:149][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2024.04.05-19.55.57:406][277]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base
+[2024.04.05-19.55.57:407][277]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Projectil_BaseEE44F8034824E165180895ABED992780.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.uasset'
+[2024.04.05-19.55.57:431][277]AssetCheck: New page: Asset Save: Projectil_Base
+[2024.04.05-19.55.57:432][277]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Sistema_de_Arma/Armas/Projectil_Base.Projectil_Base
+[2024.04.05-19.55.58:884][393]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-19.55.58:901][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.05-19.55.58:901][393]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 5, 2024, 5:55:58 AM)
+[2024.04.05-19.55.58:902][393]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.55.58:919][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016454s)
+[2024.04.05-19.55.58:919][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016739s)
+[2024.04.05-19.55.58:919][393]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.55.58:919][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.55.58:920][393]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.05-19.55.58:920][393]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2024.04.05-19.55.59:000][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.04.05-19.55.59:002][393]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.05-19.55.59:002][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-19.55.59:002][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-19.55.59:002][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-19.55.59:003][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-19.55.59:003][393]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-19.55.59:003][393]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.05-19.55.59:003][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-19.55.59:003][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-19.55.59:003][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-19.55.59:003][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-19.55.59:003][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-19.55.59:006][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-19.55.59:042][393]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.05-19.55.59:043][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-19.55.59:043][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-19.55.59:043][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-19.55.59:044][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.05-19.55.59:045][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.05-19.55.59:047][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.05-19.55.59:047][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.05-19.55.59:047][393]LogInit: FAudioDevice initialized.
+[2024.04.05-19.55.59:047][393]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2024.04.05-19.55.59:086][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.55.59:087][393]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.04.05-19.55.59:096][393]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2024.04.05-12.55.59
+[2024.04.05-19.55.59:099][393]LogWorld: Bringing up level for play took: 0.011970
+[2024.04.05-19.55.59:105][393]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.04.05-19.55.59:112][393]PIE: Server logged in
+[2024.04.05-19.55.59:113][393]PIE: Play in editor total start time 0.213 seconds.
+[2024.04.05-19.55.59:131][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:131][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:135][393]LogViewport: Scene viewport resized to 1911x948, mode Windowed.
+[2024.04.05-19.55.59:329][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:329][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:377][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:377][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:446][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:446][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:562][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:563][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:648][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:650][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:753][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:753][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:857][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.55.59:857][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.03:420][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.56.03:420][433]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.56.03:422][433]LogSlate: Window 'The_Ghost Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2024.04.05-19.56.03:602][433]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.56.03:603][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.56.03:717][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-19.56.03:727][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.56.03:814][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.05-19.56.03:817][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.05-19.56.03:830][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.04.05-19.56.04:067][434]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.04.05-19.56.06:165][528]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.56.06:200][528]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.56.16:599][381]LogEditorTransaction: Undo Delete current selection
+[2024.04.05-19.56.17:009][385]LogEditorTransaction: Undo Move Node
+[2024.04.05-19.56.17:430][404]LogEditorTransaction: Undo Add Node
+[2024.04.05-19.56.18:071][455]LogEditorTransaction: Undo Delete current selection
+[2024.04.05-19.56.18:630][495]LogEditorTransaction: Undo Move Node
+[2024.04.05-19.56.22:347][792]LogEditorTransaction: Undo Add Node
+[2024.04.05-19.56.23:626][859]LogEditorTransaction: Undo Delete current selection
+[2024.04.05-19.56.24:510][933]LogEditorTransaction: Undo Move Node
+[2024.04.05-19.56.25:004][973]LogEditorTransaction: Undo Add Node
+[2024.04.05-19.56.25:481][ 11]LogEditorTransaction: Undo Create Pin Link
+[2024.04.05-19.56.25:761][ 32]LogEditorTransaction: Undo Move Node
+[2024.04.05-19.56.26:196][ 67]LogEditorTransaction: Undo Add Node
+[2024.04.05-19.56.26:481][ 88]LogEditorTransaction: Undo Move Node
+[2024.04.05-19.56.26:794][112]LogEditorTransaction: Undo Add Node
+[2024.04.05-19.56.27:658][183]LogEditorTransaction: Undo Edit Projectile Gravity Scale
+[2024.04.05-19.56.34:948][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-19.56.34:962][742]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.05-19.56.34:965][742]LogPlayLevel: [PlayLevel] Compiling Zumbie_3_F before play...
+[2024.04.05-19.56.34:969][742]LogPlayLevel: [PlayLevel]   Compiling Zumbie3 as a dependent...
+[2024.04.05-19.56.35:068][742]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_3
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.56.35:068][742]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_3
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.56.35:068][742]LogScript: Warning: Accessed None trying to read property Enemy_Ref
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_3
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00B8
+[2024.04.05-19.56.35:068][742]LogScript: Warning: Accessed None
+	Zumbie_3_F_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Zumbie_3_F_C_3
+	Function /Game/Meus_Arquivos/Inimigos/Zumbie3/Animacao/Zumbie_3_F.Zumbie_3_F_C:ExecuteUbergraph_Zumbie_3_F:00CD
+[2024.04.05-19.56.35:379][742]LogSavePackage: Moving output files for package: /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3
+[2024.04.05-19.56.35:381][742]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Saved/Zumbie31EE72F0F4306826036D4919063762859.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/The_Ghost 5.0/Content/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.uasset'
+[2024.04.05-19.56.35:396][742]LogPlayLevel: [PlayLevel] Compiling Projectil_Base before play...
+[2024.04.05-19.56.35:511][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2024.04.05-19.56.35:513][742]LogPlayLevel: PlayLevel: Blueprint regeneration took 551 ms (3 blueprints)
+[2024.04.05-19.56.35:513][742]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 5, 2024, 5:56:35 AM)
+[2024.04.05-19.56.35:513][742]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.56.35:576][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061789s)
+[2024.04.05-19.56.35:576][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.061984s)
+[2024.04.05-19.56.35:576][742]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.05-19.56.35:576][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-19.56.35:578][742]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.04.05-19.56.35:579][742]LogPlayLevel: PIE: World Init took: (0.002911s)
+[2024.04.05-19.56.35:667][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.04.05-19.56.35:668][742]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.05-19.56.35:668][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-19.56.35:668][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-19.56.35:668][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-19.56.35:668][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-19.56.35:668][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-19.56.35:668][742]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.05-19.56.35:668][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-19.56.35:668][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-19.56.35:669][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-19.56.35:669][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-19.56.35:669][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-19.56.35:672][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-19.56.35:701][742]LogAudioMixer: Display: Using Audio Hardware Device Speaker/HP (Realtek High Definition Audio)
+[2024.04.05-19.56.35:702][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-19.56.35:702][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-19.56.35:702][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-19.56.35:703][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.05-19.56.35:703][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.05-19.56.35:706][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.05-19.56.35:706][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.05-19.56.35:706][742]LogInit: FAudioDevice initialized.
+[2024.04.05-19.56.35:706][742]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2024.04.05-19.56.35:778][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.56.35:780][742]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.04.05-19.56.35:800][742]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2024.04.05-12.56.35
+[2024.04.05-19.56.35:802][742]LogWorld: Bringing up level for play took: 0.020519
+[2024.04.05-19.56.35:809][742]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.04.05-19.56.35:821][742]PIE: Server logged in
+[2024.04.05-19.56.35:822][742]PIE: Play in editor total start time 0.86 seconds.
+[2024.04.05-19.56.35:839][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.35:840][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.35:883][742]LogViewport: Scene viewport resized to 1911x948, mode Windowed.
+[2024.04.05-19.56.36:028][743]AssetCheck: New page: Asset Save: Zumbie3
+[2024.04.05-19.56.36:028][743]LogContentValidation: Display: Validating Blueprint /Game/Meus_Arquivos/Inimigos/Zumbie3/Zumbie3.Zumbie3
+[2024.04.05-19.56.36:040][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:040][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:062][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:062][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:132][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:132][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:228][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:228][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:355][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:355][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:433][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:434][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:531][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_0 Function:  Get Text 0 Blueprint:  HealthWidget
+[2024.04.05-19.56.36:531][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Equipped_Weapon". Node:  Return Node Graph:  GetText_1 Function:  Get Text 1 Blueprint:  HealthWidget
+[2024.04.05-19.56.42:530][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-19.56.42:530][806]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.04.05-19.56.42:531][806]LogSlate: Window 'The_Ghost Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2024.04.05-19.56.42:706][806]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-19.56.42:709][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.56.42:830][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-19.56.42:840][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-19.56.42:937][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.05-19.56.42:940][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.05-19.56.42:954][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2024.04.05-19.56.43:168][807]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.04.05-19.56.44:868][887]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.56.44:903][887]LogSlate: Window 'Message Log' being destroyed
+[2024.04.05-19.57.12:612][923]BlueprintLog: New page: Compile Projectil_Base
+[2024.04.05-19.57.12:664][923]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.04.05-19.57.12:767][923]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.103 s
+[2024.04.05-19.57.12:767][923]LogOutputDevice: Error: === Handled ensure: ===
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: 
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1162]
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: 
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: Stack: 
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffaea1a9d0b UnrealEditor-Engine.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffaee941c2c UnrealEditor-Kismet.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffaee8e4167 UnrealEditor-Kismet.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffaee8e3f20 UnrealEditor-Kismet.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffae5dc0bfe UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffaee9f5fdb UnrealEditor-Kismet.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffaeea1120c UnrealEditor-Kismet.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb2419b158 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb2427dbbb UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb24260d54 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb242fba3b UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb24322df6 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb240c4034 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb240a6fc6 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb241202ee UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb241091b1 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb240fd5dc UnrealEditor-Slate.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb2cf4a92e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb2cf39247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb2cf4ce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb2cf349a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb6a021cac USER32.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb6a020f06 USER32.dll!UnknownFunction []
+[2024.04.05-19.57.12:768][923]LogOutputDevice: Error: [Callstack] 0x00007ffb2cf4e148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ff7a7897114 UnrealEditor.exe!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ff7a78b0d9c UnrealEditor.exe!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ff7a78b0e8a UnrealEditor.exe!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ff7a78b3c4d UnrealEditor.exe!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ff7a78c5564 UnrealEditor.exe!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ff7a78c8736 UnrealEditor.exe!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ffb694353e0 KERNEL32.DLL!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: [Callstack] 0x00007ffb6a20485b ntdll.dll!UnknownFunction []
+[2024.04.05-19.57.12:769][923]LogOutputDevice: Error: 
